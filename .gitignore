@@ -1,1 +1,26 @@
+#Backend
 venv/
+#Infra
+# Ignore Terraform state files
+*.tfstate
+*.tfstate.backup
+
+# Crash logs
+crash.log
+
+# Terraform override files
+*.tfvars
+*.tfvars.json
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+
+# .terraform directory (plugin binaries and local config)
+.terraform/
+
+# Plan output files
+terraform.tfplan
+
+# Sensitive or generated files
+terraform.tfstate.d/
