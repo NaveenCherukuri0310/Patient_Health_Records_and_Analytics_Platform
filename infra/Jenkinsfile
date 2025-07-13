@@ -1,0 +1,16 @@
+pipeline {
+  agent any
+
+  stages {
+    stage('Init') {
+      steps {
+        sh 'cd infra/terraform && terraform init'
+      }
+    }
+    stage('Plan') {
+      steps {
+        sh 'cd infra/terraform && terraform plan'
+      }
+    }
+  }
+}
