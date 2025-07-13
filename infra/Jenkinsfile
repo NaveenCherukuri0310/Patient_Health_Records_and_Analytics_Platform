@@ -1,15 +1,21 @@
 pipeline {
   agent any
 
+  environment {
+    TF_DIR = "infra/terraform"
+  }
+
   stages {
-    stage('Init') {
+    stage('Init & Plan') {
       steps {
-        sh 'cd infra/terraform && terraform plan -var-file="terraform.tfvars"'
-      }
-    }
-    stage('Plan') {
-      steps {
-        sh 'cd infra/terraform && terraform plan'
+        dir("${TF_DIR}") {
+          // Clean existing plugin cache and re-init Terraform
+          sh '''
+            rm -rf .terraform
+            terraform init
+            terraform plan -var-file="terraform.tfvars"
+          '''
+        }
       }
     }
   }
