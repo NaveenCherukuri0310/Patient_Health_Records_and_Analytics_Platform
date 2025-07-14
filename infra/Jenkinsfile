@@ -1,14 +1,28 @@
 pipeline {
+  /* Run on the built-in agent (your Jenkins EC2 host) */
   agent any
+
   stages {
-    stage('Checkout') { steps { checkout scm } }
-    stage('Backend Unit Tests') {
+
+    stage('Checkout') {
       steps {
-        dir('backend') {
-          sh 'pip install -r requirements.txt'
-          sh 'pytest -q'
-        }
+        checkout scm               // grabs the branch that triggered the build
       }
+    }
+
+    stage('Build placeholder') {    // rename later (Docker build, tests, etc.)
+      steps {
+        echo '✔ Build stage reached – CI wiring works!'
+      }
+    }
+  }
+
+  post {
+    success {
+      echo "🎉 Pipeline finished successfully."
+    }
+    failure {
+      echo "❌ Pipeline failed."
     }
   }
 }
