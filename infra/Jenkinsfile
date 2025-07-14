@@ -1,20 +1,12 @@
 pipeline {
   agent any
-
-  environment {
-    TF_DIR = "infra/terraform"
-  }
-
   stages {
-    stage('Init & Plan') {
+    stage('Checkout') { steps { checkout scm } }
+    stage('Backend Unit Tests') {
       steps {
-        dir("${TF_DIR}") {
-          // Clean existing plugin cache and re-init Terraform
-          sh '''
-            rm -rf .terraform
-            terraform init
-            terraform plan -var-file="terraform.tfvars"
-          '''
+        dir('backend') {
+          sh 'pip install -r requirements.txt'
+          sh 'pytest -q'
         }
       }
     }
