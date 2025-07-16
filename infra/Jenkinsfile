@@ -1,0 +1,36 @@
+pipeline {
+  agent any
+
+  environment {
+    AWS_REGION = 'us-east-1'
+    ECR_REPO   = '196861676022.dkr.ecr.us-east-1.amazonaws.com/patient-backend'
+    IMAGE_TAG  = "${env.BRANCH_NAME}-${env.BUILD_NUMBER}"
+  }
+
+  stages {
+    stage('Checkout') {
+      steps { checkout scm }
+    }
+
+    stage('Docker Build') {
+      steps {
+        sh 'docker build -t $ECR_REPO:$IMAGE_TAG ./backend'
+      }
+    }
+
+    stage('ECR Login & Push') {
+      steps {
+        sh '''
+          aws ecr get-login-password --region $AWS_REGION | \
+            docker login --username AWS --password-stdin $ECR_REPO
+          docker push $ECR_REPO:$IMAGE_TAG
+        '''
+      }
+    }
+  }
+
+  post {
+    success { echo "🎉  Image pushed: $ECR_REPO:$IMAGE_TAG" }
+    failure { echo "❌  Build failed" }
+  }
+}
