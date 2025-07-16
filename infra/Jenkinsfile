@@ -1,8 +1,48 @@
-stage('Terraform Validate') {
-  steps {
-    dir('infra/terraform') {
-      sh 'terraform init -backend=false'
-      sh 'terraform validate'
+pipeline {
+  agent any
+
+  environment {
+    AWS_REGION = 'us-east-1'
+    ECR_REPO   = '196861676022.dkr.ecr.us-east-1.amazonaws.com/patient-backend'
+    IMAGE_TAG  = "${env.BRANCH_NAME}-${env.BUILD_NUMBER}"
+  }
+
+  /*** ALL STAGES MUST BE INSIDE THIS BLOCK ***/
+  stages {
+
+    stage('Checkout') {
+      steps { checkout scm }
     }
+
+    stage('Docker Build') {
+      steps {
+        sh 'docker build -t $ECR_REPO:$IMAGE_TAG ./backend'
+      }
+    }
+
+    stage('ECR Login & Push') {
+      steps {
+        sh '''
+          aws ecr get-login-password --region $AWS_REGION \
+            | docker login --username AWS --password-stdin $ECR_REPO
+          docker push $ECR_REPO:$IMAGE_TAG
+        '''
+      }
+    }
+
+    /* ---------- NEW STAGE ---------- */
+    stage('Terraform Validate') {
+      steps {
+        dir('infra/terraform') {
+          sh 'terraform init -backend=false'
+          sh 'terraform validate'
+        }
+      }
+    }
+  }  // <-- this closes “stages”
+
+  post {
+    success { echo "🎉  Build & Terraform validate succeeded" }
+    failure { echo "❌  Pipeline failed" }
   }
 }
