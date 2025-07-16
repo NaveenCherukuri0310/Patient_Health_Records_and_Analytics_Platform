@@ -1,0 +1,2208 @@
+Diagnosis ID,Visit ID,Patient ID,ICD Code,Description
+L9O6Y6,7U2TPS,100000,Z00.00,General exam
+7Y7U40,7U2TPS,100000,J18.9,"Pneumonia, unspecified"
+NQXQML,JD4UBE,100000,G47.0,"Insomnia, unspecified"
+R1O8Y6,ZGB9E9,100000,R06.02,Shortness of breath
+CY2ZIT,OUR1WF,100000,S62.5,Fracture of metacarpal bone
+54MLXT,OUR1WF,100000,M54.5,Low back pain
+2EW0WV,PHGTYP,100001,S93.4,Ankle sprain
+IYK7BV,PHGTYP,100001,L60.0,Ingrown nail
+7731HC,CWHF28,100001,Z12.11,Colon cancer screening
+9W9P57,PZOIAV,100001,H52.4,Presbyopia
+2DYX8M,PJ7PRH,100001,Z23,Encounter for immunization
+MRA6JD,FHRHCO,100002,R10.9,Abdominal pain
+KSHBJ8,RTZHT9,100003,B34.9,"Viral infection, unspecified"
+6TDN87,AI3N34,100003,K59.00,"Constipation, unspecified"
+5DJ1LS,AI3N34,100003,J30.9,Allergic rhinitis
+PLPYKM,GGJLJG,100003,K02.9,Dental caries
+EVHERB,ZA87LK,100003,S93.4,Ankle sprain
+AQNW5O,ZA87LK,100003,J30.9,Allergic rhinitis
+2QH6J9,POUQEB,100004,E66.9,"Obesity, unspecified"
+CF7MZY,POUQEB,100004,G47.0,"Insomnia, unspecified"
+ZWQ38X,I43AJ6,100004,R51,Headache
+Y0AB9E,N87020,100004,E78.5,"Hyperlipidemia, unspecified"
+2U2OC3,EM2PHQ,100005,I25.10,Atherosclerotic heart disease
+GPCQC3,6HJP3T,100005,Z00.121,Well child exam
+5POXYX,R7RCPC,100005,Z79.899,Long term drug therapy
+L8B822,ICG35M,100005,B37.3,Vaginal candidiasis
+ZCG9GP,ICG35M,100005,Z00.121,Well child exam
+FIHI2K,E0GMM1,100006,B34.9,"Viral infection, unspecified"
+5EPY8B,P1XG7P,100006,J06.9,Upper respiratory infection
+2U9K9P,P1XG7P,100006,Z23,Encounter for immunization
+KAALTC,SPGKDW,100006,E78.5,"Hyperlipidemia, unspecified"
+CJJL72,4T79PC,100006,T81.4,Infection post-procedure
+2BJGT7,4T79PC,100006,K29.70,"Gastritis, without bleeding"
+H04FL1,V5MYY1,100006,S93.4,Ankle sprain
+XCSZN5,U0TMRU,100007,I25.10,Atherosclerotic heart disease
+PL7MU3,U0TMRU,100007,K29.70,"Gastritis, without bleeding"
+RLX3E2,Q60T8G,100008,N30.00,Acute cystitis
+QXO7DK,Q60T8G,100008,K59.00,"Constipation, unspecified"
+88D0U5,VRJJWX,100008,R06.02,Shortness of breath
+II4MK1,3N4DUJ,100008,A09,Infectious gastroenteritis and colitis
+MC4VH0,3N4DUJ,100008,R06.02,Shortness of breath
+6XN942,XXAOQG,100009,G47.0,"Insomnia, unspecified"
+8N5GO3,H5V2I9,100009,E78.5,"Hyperlipidemia, unspecified"
+BNY8TH,H5V2I9,100009,Z51.81,Therapeutic drug monitoring
+IPTVTO,K9AWHE,100010,S62.5,Fracture of metacarpal bone
+G385EI,BHTGZX,100010,E66.9,"Obesity, unspecified"
+ILCROQ,9W0QTA,100010,J44.9,Chronic obstructive pulmonary disease
+JD2KLK,9W0QTA,100010,Z79.899,Long term drug therapy
+GU8WYD,LG916K,100010,J44.9,Chronic obstructive pulmonary disease
+ICOYHA,IMZNG5,100011,N30.00,Acute cystitis
+WU26NA,AFRHKU,100011,Z00.121,Well child exam
+MQGIW1,AFRHKU,100011,R07.9,Chest pain
+96TI5X,XBPXNC,100011,Z87.891,History of nicotine dependence
+9Y4GOK,XBPXNC,100011,M54.5,Low back pain
+P64309,I3B2FN,100011,Z87.891,History of nicotine dependence
+DDAQOI,8I2FQ9,100012,R10.9,Abdominal pain
+50E8MS,4AU77F,100012,K59.00,"Constipation, unspecified"
+B1FFMG,22ZH0Q,100012,Z87.891,History of nicotine dependence
+4H9IQH,RFYJ4M,100012,L60.0,Ingrown nail
+EF9KXD,L64AXJ,100013,E66.9,"Obesity, unspecified"
+UBH0S5,NVE38E,100013,J18.9,"Pneumonia, unspecified"
+0HZ7ZK,0QWUEG,100013,J44.9,Chronic obstructive pulmonary disease
+ZZZAAY,JIDK56,100013,I10,Essential (primary) hypertension
+1E2L11,5AZU6V,100013,E78.5,"Hyperlipidemia, unspecified"
+3CV2QC,RJM96K,100014,R07.9,Chest pain
+5C2LID,RJM96K,100014,Z00.00,General exam
+RRIJ2M,MMCCET,100014,S62.5,Fracture of metacarpal bone
+RMNYBY,8BMOZH,100014,R05,Cough
+SSLXDC,2UU4QD,100014,G47.0,"Insomnia, unspecified"
+WML3LM,4T54AI,100014,L60.0,Ingrown nail
+FXQD43,3TDEMR,100015,B37.3,Vaginal candidiasis
+A71N13,RG268O,100015,Z12.11,Colon cancer screening
+8YLL81,EKWH36,100015,K02.9,Dental caries
+XL6JK4,EKWH36,100015,J06.9,Upper respiratory infection
+MA4SMP,IDOKS3,100015,B34.9,"Viral infection, unspecified"
+DXPPEV,IDOKS3,100015,M17.9,Osteoarthritis of knee
+5UZ2GW,3A5OMT,100016,I10,Essential (primary) hypertension
+A8EU3A,3A5OMT,100016,Z00.00,General exam
+JFBK3Y,F24ITN,100016,A09,Infectious gastroenteritis and colitis
+B2LNI7,F24ITN,100016,Z00.00,General exam
+54TX8E,FTJM1N,100017,N39.0,Urinary tract infection
+Q3OM4B,SVYWMX,100017,E66.9,"Obesity, unspecified"
+GUGONU,SVYWMX,100017,J02.9,Acute pharyngitis
+L6J24S,5XU79S,100017,Z00.121,Well child exam
+ZGWS4P,5XU79S,100017,N39.0,Urinary tract infection
+YEOBEM,RY8CUD,100017,Z23,Encounter for immunization
+SFXHR6,C74C06,100018,R06.02,Shortness of breath
+3094RC,C74C06,100018,Z71.9,"Counseling, unspecified"
+M8CYZ6,ABN1AY,100018,R07.9,Chest pain
+LY47W0,ABN1AY,100018,G43.9,"Migraine, unspecified"
+X1E26P,T6WEGA,100018,E03.9,"Hypothyroidism, unspecified"
+TS2HK5,5A3NUI,100019,G43.9,"Migraine, unspecified"
+2BB400,5A3NUI,100019,M16.9,Osteoarthritis of hip
+5KIMV0,GB6H3O,100019,S93.4,Ankle sprain
+W32F2W,PY3IJH,100019,R07.9,Chest pain
+6IOGKF,JLND01,100019,S93.4,Ankle sprain
+139HU7,JLND01,100019,R07.9,Chest pain
+1WOT1H,2CHZTP,100020,I10,Essential (primary) hypertension
+60TALE,2CHZTP,100020,F41.1,Generalized anxiety disorder
+B8S20F,UUN8IB,100021,E66.9,"Obesity, unspecified"
+OGVYQW,WANZ86,100021,Z13.6,Cardiovascular screening
+KDQMUE,EV9HOT,100021,R11.0,Nausea
+LSCHHG,UFR2KV,100021,R06.02,Shortness of breath
+JEZ6QK,UFR2KV,100021,J30.9,Allergic rhinitis
+Q3VA84,UEFV7P,100022,F32.9,"Major depressive disorder, single episode"
+PLBYFJ,UEFV7P,100022,J06.9,Upper respiratory infection
+WB075S,GVTGQD,100022,J44.9,Chronic obstructive pulmonary disease
+5C4Z56,QPE1H6,100023,F41.1,Generalized anxiety disorder
+PITKNN,QPE1H6,100023,L03.90,"Cellulitis, unspecified"
+O6VLNX,NMQQ0A,100023,K21.9,GERD without esophagitis
+7HZ8ML,NMQQ0A,100023,I10,Essential (primary) hypertension
+A41LMH,XL3JW9,100023,F41.1,Generalized anxiety disorder
+ONQP47,WHU6MT,100024,R07.9,Chest pain
+751LWM,VN1QKN,100024,L60.0,Ingrown nail
+JLUXTS,0JJIVH,100025,B34.9,"Viral infection, unspecified"
+963NNR,C1CEKC,100025,E03.9,"Hypothyroidism, unspecified"
+TU9YWI,G875FU,100025,I10,Essential (primary) hypertension
+4OMC3A,G875FU,100025,J01.90,Acute sinusitis
+PSWGUX,OOFOHR,100025,E66.9,"Obesity, unspecified"
+OF5XIK,1MRHSC,100025,Z71.9,"Counseling, unspecified"
+6MMYRS,J6HVDL,100026,I10,Essential (primary) hypertension
+U2DASE,VOA539,100027,S62.5,Fracture of metacarpal bone
+AZY74O,VOA539,100027,Z13.6,Cardiovascular screening
+277GS1,MFDUPE,100027,J30.9,Allergic rhinitis
+XSJHW8,H1SUXC,100027,R05,Cough
+EPWTFA,YNSOZ1,100027,J44.9,Chronic obstructive pulmonary disease
+IJ7YOE,YNSOZ1,100027,B37.3,Vaginal candidiasis
+BNYX32,PFN44I,100028,B37.3,Vaginal candidiasis
+OEXPE2,5KRO7I,100029,R05,Cough
+MNNZ1N,1G98RP,100030,Z00.121,Well child exam
+U62GQV,AG2DYK,100030,E66.9,"Obesity, unspecified"
+L0D4JO,AG2DYK,100030,B37.3,Vaginal candidiasis
+5YI0LV,TLXLWY,100030,S62.5,Fracture of metacarpal bone
+C8QEVE,TLXLWY,100030,H66.9,Otitis media
+MLW28P,LJ08DY,100031,R07.9,Chest pain
+NGJ0ZU,LJ08DY,100031,M17.9,Osteoarthritis of knee
+KTW99W,368RNM,100032,R10.9,Abdominal pain
+96UYNJ,348JQL,100033,L03.90,"Cellulitis, unspecified"
+4DAU6A,348JQL,100033,K02.9,Dental caries
+7ACQZS,Y323GJ,100034,H52.4,Presbyopia
+MJ6XJS,Y323GJ,100034,K29.70,"Gastritis, without bleeding"
+EVOJ51,5UDF4B,100034,K29.70,"Gastritis, without bleeding"
+3995ZF,5UDF4B,100034,Z12.11,Colon cancer screening
+OE70B9,0QN84T,100034,N39.0,Urinary tract infection
+1X2PFK,DVC1G1,100034,G43.9,"Migraine, unspecified"
+R2BD55,DVC1G1,100034,B37.3,Vaginal candidiasis
+PQVOU7,H54P3F,100035,H61.2,Impacted cerumen
+GF4JO3,A44DQO,100035,M16.9,Osteoarthritis of hip
+O4M01F,A44DQO,100035,L60.0,Ingrown nail
+BYQTU5,N9RXB5,100036,M16.9,Osteoarthritis of hip
+GS2BYN,LOIAZL,100036,E66.9,"Obesity, unspecified"
+MXL7KT,LOIAZL,100036,E66.9,"Obesity, unspecified"
+CB1PPA,23FI0S,100037,J02.9,Acute pharyngitis
+ROH4YO,IXLVLV,100037,J06.9,Upper respiratory infection
+2FNYYJ,O9WYJV,100037,L03.90,"Cellulitis, unspecified"
+RZNJFF,QRKIHM,100038,L03.90,"Cellulitis, unspecified"
+IMN9WX,7T94HD,100038,R06.02,Shortness of breath
+AHY76Z,7T94HD,100038,K21.9,GERD without esophagitis
+5EVR84,0WFSNK,100039,M17.9,Osteoarthritis of knee
+I2SPYE,0WFSNK,100039,J44.9,Chronic obstructive pulmonary disease
+9TMB61,C8X3P7,100040,E78.5,"Hyperlipidemia, unspecified"
+DPG5FC,S02F0P,100040,R10.9,Abdominal pain
+USFL4E,S02F0P,100040,S93.4,Ankle sprain
+I0BP3E,0MKMG4,100040,Z00.00,General exam
+ICYZKN,0MKMG4,100040,L03.90,"Cellulitis, unspecified"
+QM5MIS,QUAYRE,100040,R05,Cough
+VTQ30H,QUAYRE,100040,K59.00,"Constipation, unspecified"
+YZGXAY,JJQDK4,100041,K29.70,"Gastritis, without bleeding"
+Z0730K,W1H259,100041,R06.02,Shortness of breath
+PC3PHT,W1H259,100041,R51,Headache
+9ZZXPE,BXLKMP,100042,M79.1,Myalgia
+BDTBKK,6C2PZA,100042,J06.9,Upper respiratory infection
+25OGPE,MAR4GB,100042,G47.0,"Insomnia, unspecified"
+8JKG87,MAR4GB,100042,E66.9,"Obesity, unspecified"
+ITNZAG,9RQBGU,100043,M54.5,Low back pain
+RXPOO3,9RQBGU,100043,S62.5,Fracture of metacarpal bone
+QSBA09,F4OI9G,100044,E03.9,"Hypothyroidism, unspecified"
+LN4SDS,W19Z5O,100045,Z00.121,Well child exam
+KUIM5X,W19Z5O,100045,J02.9,Acute pharyngitis
+QW8914,HAY26T,100045,J06.9,Upper respiratory infection
+R3DZAH,HAY26T,100045,S93.4,Ankle sprain
+MD1PCH,NUNTIO,100045,J01.90,Acute sinusitis
+O7D8H9,NUNTIO,100045,L03.90,"Cellulitis, unspecified"
+YWTDM6,FCXVFS,100045,Z87.891,History of nicotine dependence
+YWSUB7,QE1R4Q,100046,Z51.81,Therapeutic drug monitoring
+9JQS5Q,QE1R4Q,100046,Z79.899,Long term drug therapy
+6PCTCK,I8RTQB,100046,Z00.00,General exam
+T88UQ7,I8RTQB,100046,G43.9,"Migraine, unspecified"
+8Z0532,33LQIH,100047,F32.9,"Major depressive disorder, single episode"
+2YZJE0,MHANBP,100047,A09,Infectious gastroenteritis and colitis
+QADKOV,DONDRN,100048,Z51.81,Therapeutic drug monitoring
+P1CB53,DONDRN,100048,Z79.899,Long term drug therapy
+QVP6U4,AVIDGQ,100048,S62.5,Fracture of metacarpal bone
+K22S2W,AVIDGQ,100048,J06.9,Upper respiratory infection
+XGZX1E,HVDF37,100048,J06.9,Upper respiratory infection
+Q7IM7J,HVDF37,100048,M17.9,Osteoarthritis of knee
+TYK1AV,SI7JVW,100048,H66.9,Otitis media
+XL4EYX,SI7JVW,100048,J02.9,Acute pharyngitis
+N5NCQ4,GKZ381,100049,L03.90,"Cellulitis, unspecified"
+YL8EK5,9RM5OZ,100049,H52.4,Presbyopia
+VXFPIV,MMYREI,100049,N39.0,Urinary tract infection
+T6H5Z2,MMYREI,100049,Z00.121,Well child exam
+EFFXVC,I8DBL1,100049,Z00.00,General exam
+NJ6BXZ,I8DBL1,100049,J30.9,Allergic rhinitis
+C6BSIX,0ZIDKS,100050,H66.9,Otitis media
+0ZK20H,UM3HON,100050,J30.9,Allergic rhinitis
+FGXNVI,J6HPO5,100051,S62.5,Fracture of metacarpal bone
+B23RFB,Z2ED13,100051,J44.9,Chronic obstructive pulmonary disease
+NWU2JZ,Z2ED13,100051,Z00.121,Well child exam
+1IB24T,XIS5AQ,100051,H66.9,Otitis media
+OPFV48,XIS5AQ,100051,G47.0,"Insomnia, unspecified"
+XV89R6,EV8EZY,100052,R10.9,Abdominal pain
+5420Y9,EV8EZY,100052,K21.9,GERD without esophagitis
+DAZ188,1ILU4F,100052,M79.1,Myalgia
+PNL4RO,1ILU4F,100052,S62.5,Fracture of metacarpal bone
+Z2UX3A,LXEV3E,100053,R06.02,Shortness of breath
+XV7KJ0,LXEV3E,100053,Z79.899,Long term drug therapy
+Q8RHS4,36Q358,100053,R05,Cough
+HOZG2F,7DRF5J,100054,Z51.81,Therapeutic drug monitoring
+RHDGAQ,7DRF5J,100054,Z71.9,"Counseling, unspecified"
+5H2FN8,TTU036,100054,Z79.899,Long term drug therapy
+HMZ1MD,TTU036,100054,Z00.00,General exam
+20Q8UO,QSYZUG,100054,F41.1,Generalized anxiety disorder
+J3OLJ1,4DHZCU,100054,L60.0,Ingrown nail
+B28TXJ,4DHZCU,100054,K59.00,"Constipation, unspecified"
+83UW6I,R4BU32,100054,R51,Headache
+1GVG7O,31OB2Q,100055,K59.00,"Constipation, unspecified"
+L8UDDV,CTDTQC,100056,R11.0,Nausea
+TPXO27,JDHGCL,100056,S93.4,Ankle sprain
+MAXELR,JDHGCL,100056,Z87.891,History of nicotine dependence
+TU9GWV,FC4DIW,100057,R51,Headache
+RE2K1R,FC4DIW,100057,N30.00,Acute cystitis
+DMT4DM,3H3JQ2,100057,I10,Essential (primary) hypertension
+4U1G03,AWCP8U,100057,M17.9,Osteoarthritis of knee
+G9SR8P,AWCP8U,100057,Z51.81,Therapeutic drug monitoring
+4OX9XO,9Z5GY3,100057,Z23,Encounter for immunization
+9Q75L3,K1OPYF,100058,I25.10,Atherosclerotic heart disease
+JGLX72,60TUU9,100058,Z71.9,"Counseling, unspecified"
+22FU23,9F0C8D,100058,M16.9,Osteoarthritis of hip
+1Q8C3W,9F0C8D,100058,Z87.891,History of nicotine dependence
+SV28BR,E14O3J,100059,N39.0,Urinary tract infection
+S2TH7T,J22S8Y,100060,J06.9,Upper respiratory infection
+TX6XAE,C1V3FV,100060,N30.00,Acute cystitis
+1SZ6RZ,C1V3FV,100060,Z00.00,General exam
+RIKGVR,8X9MT3,100060,H52.4,Presbyopia
+1F93DE,8X9MT3,100060,K21.9,GERD without esophagitis
+MIMPF6,Z6VXIM,100061,N39.0,Urinary tract infection
+9QXA9M,Z6VXIM,100061,H61.2,Impacted cerumen
+VMTWAS,R6J500,100061,K29.70,"Gastritis, without bleeding"
+VLC35N,LPRESM,100061,E03.9,"Hypothyroidism, unspecified"
+4NU1QC,LPRESM,100061,G47.0,"Insomnia, unspecified"
+CHEYZM,TXVSAK,100061,J06.9,Upper respiratory infection
+U6OYVX,TXVSAK,100061,M54.5,Low back pain
+00UVI8,TOE6CI,100061,H66.9,Otitis media
+UH8RFH,TOE6CI,100061,M54.5,Low back pain
+EX7VVI,ITGBFF,100062,B34.9,"Viral infection, unspecified"
+574QKZ,ITGBFF,100062,F41.1,Generalized anxiety disorder
+3IM0WU,HF238B,100063,K02.9,Dental caries
+UKLDF5,Q8RMUH,100063,Z87.891,History of nicotine dependence
+4095WP,E8DZBM,100063,Z23,Encounter for immunization
+L2E82T,E8DZBM,100063,N39.0,Urinary tract infection
+QJ5LFQ,CIWI3L,100063,F41.1,Generalized anxiety disorder
+FD9YK3,8MG2J5,100064,M16.9,Osteoarthritis of hip
+TNS2D8,FP2J7D,100064,K02.9,Dental caries
+0Y0RQG,05P04N,100064,M79.1,Myalgia
+90II30,05P04N,100064,N30.00,Acute cystitis
+YX8ODU,X8E1I7,100065,Z23,Encounter for immunization
+RMKF21,X8E1I7,100065,J06.9,Upper respiratory infection
+IQSARW,JA21NG,100065,N30.00,Acute cystitis
+CQXX5G,JA21NG,100065,B34.9,"Viral infection, unspecified"
+QUFE39,I2DYMC,100065,H61.2,Impacted cerumen
+ARTIIF,I2DYMC,100065,Z00.00,General exam
+VQZ19E,OLUC6I,100066,H52.4,Presbyopia
+L176IZ,OLUC6I,100066,K21.9,GERD without esophagitis
+D8S34N,384MPO,100067,J44.9,Chronic obstructive pulmonary disease
+N0GGCI,384MPO,100067,K02.9,Dental caries
+BRE57S,PR4BGT,100067,R06.02,Shortness of breath
+3NFIUA,6QN9RO,100067,Z51.81,Therapeutic drug monitoring
+3DPS3N,6UBUGH,100067,E78.5,"Hyperlipidemia, unspecified"
+DVLEBV,FZAAXG,100067,G43.9,"Migraine, unspecified"
+A1GWC7,FZAAXG,100067,Z71.9,"Counseling, unspecified"
+2J6TTS,0PHOQ2,100068,J06.9,Upper respiratory infection
+WJ9BD4,PPXD49,100068,R10.9,Abdominal pain
+DED2TS,PPXD49,100068,B37.3,Vaginal candidiasis
+NH0FG7,JF9IVG,100069,R51,Headache
+3H3BR6,JF9IVG,100069,G43.9,"Migraine, unspecified"
+X1XW8O,4NPODM,100069,B37.3,Vaginal candidiasis
+0K9PUG,4NPODM,100069,H61.2,Impacted cerumen
+O0FC3K,BND5F5,100069,M16.9,Osteoarthritis of hip
+Y2F4X4,BND5F5,100069,N39.0,Urinary tract infection
+VH04GA,4NAJDS,100070,H61.2,Impacted cerumen
+YT8R62,KP3NIJ,100070,I10,Essential (primary) hypertension
+QGHPCJ,4CH95B,100070,Z23,Encounter for immunization
+KPGOBS,4CH95B,100070,A09,Infectious gastroenteritis and colitis
+G4R9CP,SVPETD,100070,Z00.00,General exam
+S423YF,XEBFFM,100071,R06.02,Shortness of breath
+0WNI0P,XEBFFM,100071,G43.9,"Migraine, unspecified"
+DHQ0JA,V7USHH,100071,I25.10,Atherosclerotic heart disease
+JDSHQK,V7USHH,100071,E66.9,"Obesity, unspecified"
+VNUF38,VP4XL9,100071,K29.70,"Gastritis, without bleeding"
+BXQOJ0,VP4XL9,100071,Z87.891,History of nicotine dependence
+HEFK9N,1NUB1K,100071,R06.02,Shortness of breath
+H9TZZ3,1NUB1K,100071,R10.9,Abdominal pain
+55HRXO,OK5EKZ,100072,J30.9,Allergic rhinitis
+BCASGU,LIECXT,100072,F41.1,Generalized anxiety disorder
+P2KW82,LIECXT,100072,K21.9,GERD without esophagitis
+ZGCF64,V5L1QT,100072,Z00.121,Well child exam
+P0VKCT,V5L1QT,100072,M17.9,Osteoarthritis of knee
+CBU4X2,L3BRRI,100072,F41.1,Generalized anxiety disorder
+YCO7HU,L3BRRI,100072,Z51.81,Therapeutic drug monitoring
+IFHGY9,Y90UQF,100073,E78.5,"Hyperlipidemia, unspecified"
+WOMGBV,Y90UQF,100073,K59.00,"Constipation, unspecified"
+DL23IR,G4BIOP,100074,I25.10,Atherosclerotic heart disease
+NX12JQ,3CR7AA,100074,H66.9,Otitis media
+5SL3BD,3CR7AA,100074,M17.9,Osteoarthritis of knee
+KSHH4O,J6PI97,100074,Z00.121,Well child exam
+9NZJL2,SEMS4M,100075,S62.5,Fracture of metacarpal bone
+S5WMK3,DCVUDT,100075,Z00.00,General exam
+OGKUSC,DCVUDT,100075,H52.4,Presbyopia
+IC3KAX,9OHBJT,100075,I25.10,Atherosclerotic heart disease
+5AZMAC,GS580Q,100076,J06.9,Upper respiratory infection
+454ED2,GS580Q,100076,J02.9,Acute pharyngitis
+X0SA22,9948Y9,100076,R10.9,Abdominal pain
+921I5G,9948Y9,100076,N39.0,Urinary tract infection
+8S96GC,0ETA51,100076,I25.10,Atherosclerotic heart disease
+BKT2NB,G9NC50,100076,Z12.11,Colon cancer screening
+F83RTP,G9NC50,100076,M16.9,Osteoarthritis of hip
+2GE4E0,XOWBCZ,100076,M79.1,Myalgia
+I2WHLW,MJHUKU,100077,K59.00,"Constipation, unspecified"
+CVT393,3GYEDM,100077,Z00.00,General exam
+J8TDXE,N694P0,100077,R51,Headache
+ZFG8SS,D3UKOW,100077,K21.9,GERD without esophagitis
+ZFU0UE,D3UKOW,100077,T81.4,Infection post-procedure
+F7NYO2,HN2GOM,100077,K02.9,Dental caries
+2IZWAH,9EWUQO,100078,H66.9,Otitis media
+ZTAWPN,9EWUQO,100078,E78.5,"Hyperlipidemia, unspecified"
+XXTETB,QPU0FO,100078,K02.9,Dental caries
+N88N4Z,STDIY3,100078,Z13.6,Cardiovascular screening
+B624XB,AYKKGI,100079,R07.9,Chest pain
+MXUVAF,AYKKGI,100079,Z12.11,Colon cancer screening
+E2PXUJ,FEQI4C,100079,Z12.11,Colon cancer screening
+A1L9AJ,FEQI4C,100079,Z87.891,History of nicotine dependence
+OXJAHY,YIE1KU,100080,Z51.81,Therapeutic drug monitoring
+PTN952,YIE1KU,100080,J02.9,Acute pharyngitis
+IRJ2RJ,AL1ULS,100080,R05,Cough
+LF7YBK,FH6M4H,100081,Z23,Encounter for immunization
+Q8RTTJ,OB3AZ3,100081,H52.4,Presbyopia
+42E53M,OB3AZ3,100081,M54.5,Low back pain
+XDIBZX,4COJZ1,100081,J02.9,Acute pharyngitis
+W3V5QU,4X3AKD,100082,Z79.899,Long term drug therapy
+KY7RAY,J485GJ,100082,Z51.81,Therapeutic drug monitoring
+8AG9QM,CTIHVU,100082,K29.70,"Gastritis, without bleeding"
+8JIXFF,5ZMB3C,100083,M54.5,Low back pain
+TJB2LB,YS134E,100084,Z13.6,Cardiovascular screening
+FYG98H,YS134E,100084,T81.4,Infection post-procedure
+J2BNPA,JHKRPR,100084,K59.00,"Constipation, unspecified"
+R5AM40,J4V0Z2,100084,G43.9,"Migraine, unspecified"
+46MVER,L77JZB,100085,J06.9,Upper respiratory infection
+CZ383Z,Y4OUWH,100085,L03.90,"Cellulitis, unspecified"
+ZKJWSA,Y4OUWH,100085,E03.9,"Hypothyroidism, unspecified"
+S8U5T8,B6BOQG,100085,E03.9,"Hypothyroidism, unspecified"
+34ZQM7,B6BOQG,100085,B37.3,Vaginal candidiasis
+S9BFI3,9ID8AD,100086,I25.10,Atherosclerotic heart disease
+6XTN2I,79D9PT,100087,Z23,Encounter for immunization
+T4T12K,QBULAI,100087,M17.9,Osteoarthritis of knee
+OZYO9N,QBULAI,100087,Z87.891,History of nicotine dependence
+3YAO43,62O3YY,100088,J01.90,Acute sinusitis
+5NRQKT,B4OL33,100088,J02.9,Acute pharyngitis
+ZR3OFS,B4OL33,100088,R07.9,Chest pain
+XA79KM,ACXCPE,100088,K59.00,"Constipation, unspecified"
+GOK8P9,ACXCPE,100088,A09,Infectious gastroenteritis and colitis
+TE1UV7,JSV776,100088,K21.9,GERD without esophagitis
+57TLPD,JSV776,100088,H61.2,Impacted cerumen
+1JZE7G,956XXA,100088,L60.0,Ingrown nail
+1B4S0N,E7LU0E,100089,F32.9,"Major depressive disorder, single episode"
+0E856G,JVEF75,100089,B34.9,"Viral infection, unspecified"
+DFBJRX,2E8P37,100089,E03.9,"Hypothyroidism, unspecified"
+FUXLFC,8QDSEO,100089,E66.9,"Obesity, unspecified"
+KWNG0U,8QDSEO,100089,E66.9,"Obesity, unspecified"
+2VJV7B,6IBFNP,100090,K21.9,GERD without esophagitis
+ZTBHZG,6IBFNP,100090,S62.5,Fracture of metacarpal bone
+TQF3KI,LRA5CW,100090,B34.9,"Viral infection, unspecified"
+D6PBXK,LRA5CW,100090,L03.90,"Cellulitis, unspecified"
+2B7K7I,0RP1I0,100090,R51,Headache
+QSSEAA,173J5P,100090,N39.0,Urinary tract infection
+5HD6BP,173J5P,100090,Z13.6,Cardiovascular screening
+AMPLP8,IC27RB,100091,H61.2,Impacted cerumen
+TT2IZF,TTAL9H,100092,R07.9,Chest pain
+4HM5SB,9TNMJ4,100092,Z12.11,Colon cancer screening
+LPFSNQ,RPAUGL,100092,J01.90,Acute sinusitis
+W2ELSR,0QDJWE,100093,R07.9,Chest pain
+7XRZTF,0QDJWE,100093,B37.3,Vaginal candidiasis
+YUSHBG,LDMJJZ,100093,R51,Headache
+AG0TAM,LDMJJZ,100093,J44.9,Chronic obstructive pulmonary disease
+7E38AI,UYNAD2,100093,Z00.121,Well child exam
+FOHXTV,PG74OP,100093,I10,Essential (primary) hypertension
+WUTJ8K,ZVW1NT,100094,R51,Headache
+MMRUSR,ZVW1NT,100094,M16.9,Osteoarthritis of hip
+H11QQK,BNJWHB,100095,H52.4,Presbyopia
+7OW34M,3NKYBL,100096,G43.9,"Migraine, unspecified"
+AD0T7H,RQCDHW,100097,E03.9,"Hypothyroidism, unspecified"
+FWP54I,QOJC0N,100097,J30.9,Allergic rhinitis
+JH6GY4,26ZZ24,100097,S62.5,Fracture of metacarpal bone
+0NMK4U,7R9WA5,100097,R10.9,Abdominal pain
+D4U2PG,7R9WA5,100097,I25.10,Atherosclerotic heart disease
+RIQJPI,Z01LPQ,100097,G43.9,"Migraine, unspecified"
+9VS9W9,Z01LPQ,100097,R05,Cough
+Q3X188,PKQ60X,100098,J44.9,Chronic obstructive pulmonary disease
+8VRM0U,2Z0MNV,100098,M54.5,Low back pain
+G6DDON,2Z0MNV,100098,R06.02,Shortness of breath
+WCRQ8H,T6J4N3,100099,M54.5,Low back pain
+ENIF0V,T6J4N3,100099,H61.2,Impacted cerumen
+B9HH02,E033NW,100100,Z87.891,History of nicotine dependence
+2S1P6O,RZYY6Z,100100,S62.5,Fracture of metacarpal bone
+L12ZIA,RZYY6Z,100100,Z87.891,History of nicotine dependence
+Q2BQDX,Y0VFZJ,100100,M16.9,Osteoarthritis of hip
+V1TZMP,Y0VFZJ,100100,N39.0,Urinary tract infection
+D0U5I0,KL3S0N,100100,S62.5,Fracture of metacarpal bone
+77T5WG,KL3S0N,100100,J44.9,Chronic obstructive pulmonary disease
+AGMA0U,E4WMFX,100100,H52.4,Presbyopia
+WPM9EH,PZJ6LH,100101,J18.9,"Pneumonia, unspecified"
+RQFTWQ,PZJ6LH,100101,Z23,Encounter for immunization
+JMVKM0,7EBT97,100101,R05,Cough
+UH2ANI,F6X27L,100101,J01.90,Acute sinusitis
+VNONQC,F6X27L,100101,J44.9,Chronic obstructive pulmonary disease
+4XEZDB,IFJT5Z,100102,Z71.9,"Counseling, unspecified"
+1E50Q8,WR486V,100102,T81.4,Infection post-procedure
+F0VT54,WR486V,100102,R10.9,Abdominal pain
+S49XLJ,PPYFAA,100102,R06.02,Shortness of breath
+SPPN7Q,PPYFAA,100102,Z87.891,History of nicotine dependence
+M6P6SC,GBGZ94,100102,R10.9,Abdominal pain
+SW9VE3,GBGZ94,100102,L03.90,"Cellulitis, unspecified"
+PN3GN4,Y650YK,100103,T81.4,Infection post-procedure
+G65ST9,Y650YK,100103,R05,Cough
+6TIYZT,HJHAYG,100103,S93.4,Ankle sprain
+YUC3KZ,TEZK31,100104,R10.9,Abdominal pain
+2ELNFY,TEZK31,100104,J06.9,Upper respiratory infection
+VGTBJ6,R01FJF,100104,Z13.6,Cardiovascular screening
+7IO69S,DG7WPD,100105,J02.9,Acute pharyngitis
+YDY8Y0,DG7WPD,100105,H61.2,Impacted cerumen
+QLZ3AJ,2VVKZS,100105,L03.90,"Cellulitis, unspecified"
+THYF3M,2VVKZS,100105,K59.00,"Constipation, unspecified"
+XQBXU1,W4WEBQ,100105,M79.1,Myalgia
+URUQYM,CN1DRP,100105,M17.9,Osteoarthritis of knee
+40E4XH,N0ZP1K,100106,G47.0,"Insomnia, unspecified"
+6FVGNM,N0ZP1K,100106,J44.9,Chronic obstructive pulmonary disease
+HBRVKD,1JTUYX,100107,S62.5,Fracture of metacarpal bone
+IJXP6V,1JTUYX,100107,S93.4,Ankle sprain
+NJI5K1,2JQHG1,100107,F41.1,Generalized anxiety disorder
+DNFDVX,2JQHG1,100107,Z87.891,History of nicotine dependence
+9CG09T,5AD8LY,100107,Z00.00,General exam
+I6XAZH,8OR5RR,100107,E66.9,"Obesity, unspecified"
+FMBQXA,LAE4B2,100107,H61.2,Impacted cerumen
+U37SN8,LAE4B2,100107,Z51.81,Therapeutic drug monitoring
+0X5AL9,HA0PX2,100108,G43.9,"Migraine, unspecified"
+ZGWQ6B,HA0PX2,100108,T81.4,Infection post-procedure
+4HHCX7,MR1UWD,100108,J18.9,"Pneumonia, unspecified"
+CM3OND,S4VF3T,100108,N30.00,Acute cystitis
+VVKXJ6,JZRTW5,100108,E66.9,"Obesity, unspecified"
+95DU9O,JZRTW5,100108,I25.10,Atherosclerotic heart disease
+1B8RCE,1O97VM,100109,J18.9,"Pneumonia, unspecified"
+UJOX69,EA8ZPN,100110,E78.5,"Hyperlipidemia, unspecified"
+CSCIKJ,L7YYBN,100110,Z13.6,Cardiovascular screening
+X1GMDE,L7YYBN,100110,S93.4,Ankle sprain
+R7MLPZ,3YGS0O,100111,M16.9,Osteoarthritis of hip
+0K5WHH,3YGS0O,100111,G43.9,"Migraine, unspecified"
+TI5MD0,E0PCF2,100111,R51,Headache
+N66T7L,XLM6UN,100111,F41.1,Generalized anxiety disorder
+Y38CIT,TA8EZA,100112,R07.9,Chest pain
+KEO646,TA8EZA,100112,Z00.121,Well child exam
+T8ULQ4,TJGT36,100112,R05,Cough
+YKORJO,1LEID9,100112,H61.2,Impacted cerumen
+9VJOGB,AXWGAW,100112,R06.02,Shortness of breath
+5T3THJ,AXWGAW,100112,M54.5,Low back pain
+OCM71G,T0W2GL,100113,R10.9,Abdominal pain
+4YIFAU,T0W2GL,100113,Z71.9,"Counseling, unspecified"
+9N4V9A,3D4IO1,100113,I25.10,Atherosclerotic heart disease
+6AB9RH,3D4IO1,100113,I25.10,Atherosclerotic heart disease
+HV00JQ,S52J1J,100113,S93.4,Ankle sprain
+R8KZPG,S52J1J,100113,R07.9,Chest pain
+U4FKNI,2OTEE6,100113,Z23,Encounter for immunization
+5TG5V8,JT05B1,100114,J02.9,Acute pharyngitis
+CEZDXK,3VAMHG,100114,Z12.11,Colon cancer screening
+Z2CZDS,3VAMHG,100114,I10,Essential (primary) hypertension
+BYVLAY,Y20ECA,100115,K02.9,Dental caries
+P3F96T,Y20ECA,100115,Z71.9,"Counseling, unspecified"
+233BF1,BHF2W5,100115,B34.9,"Viral infection, unspecified"
+DYLSPT,JZO7YT,100116,E78.5,"Hyperlipidemia, unspecified"
+D3C1HH,10GY8E,100116,R11.0,Nausea
+EF2OTA,95N44V,100116,B34.9,"Viral infection, unspecified"
+FALSPG,95N44V,100116,K29.70,"Gastritis, without bleeding"
+DVHTK6,V8DMCQ,100117,Z71.9,"Counseling, unspecified"
+TZX38M,98BW4S,100117,J44.9,Chronic obstructive pulmonary disease
+VHJ3A7,98BW4S,100117,I25.10,Atherosclerotic heart disease
+K3W7JQ,X8LJ04,100117,N30.00,Acute cystitis
+RLXQ35,QQ4L1I,100117,I10,Essential (primary) hypertension
+XXIKPZ,RGB6YB,100117,H61.2,Impacted cerumen
+JGR7O3,8X0YVF,100118,A09,Infectious gastroenteritis and colitis
+F51JP5,8X0YVF,100118,Z87.891,History of nicotine dependence
+1V9N8S,04R8E7,100119,Z79.899,Long term drug therapy
+RGINCG,56PNXM,100119,Z12.11,Colon cancer screening
+SV33SF,NLS0F8,100119,E66.9,"Obesity, unspecified"
+5MZ2WP,L2H65B,100119,L03.90,"Cellulitis, unspecified"
+LAYY13,BVKUEY,100120,R51,Headache
+E2JNPN,BVKUEY,100120,J02.9,Acute pharyngitis
+F0P6N6,0L7UTZ,100121,R51,Headache
+4436WM,YAB0N6,100121,L03.90,"Cellulitis, unspecified"
+QCP9EG,YAB0N6,100121,I10,Essential (primary) hypertension
+SXH4XJ,Y0O0QC,100122,J18.9,"Pneumonia, unspecified"
+I4P913,YKWUX0,100122,J44.9,Chronic obstructive pulmonary disease
+4L1178,FQXCW5,100123,J02.9,Acute pharyngitis
+56WWSJ,FQXCW5,100123,M79.1,Myalgia
+7G9YPM,41CDDR,100124,K21.9,GERD without esophagitis
+AN7ATS,41CDDR,100124,L03.90,"Cellulitis, unspecified"
+M9TBGG,X5K33N,100125,Z00.00,General exam
+HR36B0,QKDAKC,100125,R06.02,Shortness of breath
+2UARSG,QKDAKC,100125,H52.4,Presbyopia
+I2KE25,XYXS3P,100125,S93.4,Ankle sprain
+WG7XXG,XYXS3P,100125,J44.9,Chronic obstructive pulmonary disease
+ORRC4U,4I37EH,100125,J18.9,"Pneumonia, unspecified"
+QWLEFU,4I37EH,100125,Z00.00,General exam
+JTO2WG,HJYW3X,100125,Z00.121,Well child exam
+LIQGQO,SFDIRP,100126,J01.90,Acute sinusitis
+52BSD4,XXEZV4,100127,E66.9,"Obesity, unspecified"
+AB8TUU,QXU01B,100127,Z71.9,"Counseling, unspecified"
+BA0R8Q,CGGWSP,100128,Z87.891,History of nicotine dependence
+V3MDCN,CGGWSP,100128,J06.9,Upper respiratory infection
+L2IYSO,EY943P,100128,S62.5,Fracture of metacarpal bone
+D85U78,EY943P,100128,I25.10,Atherosclerotic heart disease
+C2C6S4,3I0IXG,100128,M79.1,Myalgia
+QX2Y3D,3I0IXG,100128,G43.9,"Migraine, unspecified"
+M5AH0U,RL3BXY,100128,M79.1,Myalgia
+SSM52F,RL3BXY,100128,Z12.11,Colon cancer screening
+1Z1K3F,L1JNN6,100129,M17.9,Osteoarthritis of knee
+HTZE3P,CH8MNY,100129,Z00.121,Well child exam
+2XCGVJ,CH8MNY,100129,M54.5,Low back pain
+GMSPSU,O91IIR,100129,R06.02,Shortness of breath
+D29W8V,XW3UOP,100129,B34.9,"Viral infection, unspecified"
+63W9Z6,XW3UOP,100129,N30.00,Acute cystitis
+L65E3U,R20EK5,100129,J06.9,Upper respiratory infection
+WKTQJH,R20EK5,100129,Z51.81,Therapeutic drug monitoring
+70YLG7,TZPZFV,100130,M16.9,Osteoarthritis of hip
+2D72QB,EHMFOS,100130,B34.9,"Viral infection, unspecified"
+8RYNG2,EHMFOS,100130,K21.9,GERD without esophagitis
+UNNFQC,IA8VL6,100130,F41.1,Generalized anxiety disorder
+YR5S3I,IA8VL6,100130,Z79.899,Long term drug therapy
+UYRNUI,1NF3NM,100131,N30.00,Acute cystitis
+MQVS6C,83QQ0M,100131,K02.9,Dental caries
+WR66QC,83QQ0M,100131,N30.00,Acute cystitis
+P6K6QI,Z3W6HR,100131,J02.9,Acute pharyngitis
+6TOUGS,Z3W6HR,100131,S93.4,Ankle sprain
+C0O1AE,SOUEI7,100131,R07.9,Chest pain
+V2EZJ9,SOUEI7,100131,E78.5,"Hyperlipidemia, unspecified"
+OK824R,YOUPQP,100131,J44.9,Chronic obstructive pulmonary disease
+ZVMGSZ,YOUPQP,100131,M54.5,Low back pain
+QE1W8E,SZ9M5K,100132,E66.9,"Obesity, unspecified"
+HKM9LZ,SZ9M5K,100132,B37.3,Vaginal candidiasis
+104GU6,097ADZ,100132,M16.9,Osteoarthritis of hip
+C6IROJ,DO3JBM,100132,Z79.899,Long term drug therapy
+02AKY4,6QYBGP,100133,Z12.11,Colon cancer screening
+NO8VPY,6QYBGP,100133,Z00.121,Well child exam
+2LTJ4C,N8ENW8,100133,I10,Essential (primary) hypertension
+N2LOZ4,N8ENW8,100133,L60.0,Ingrown nail
+PWXK12,K61C5A,100133,G47.0,"Insomnia, unspecified"
+3K2CNK,BZPMDN,100133,Z51.81,Therapeutic drug monitoring
+7O5ICV,BZPMDN,100133,M54.5,Low back pain
+Z4DP01,WMNW3D,100133,I10,Essential (primary) hypertension
+PLI729,XTL0DT,100134,T81.4,Infection post-procedure
+S61OGG,A1DER7,100134,E78.5,"Hyperlipidemia, unspecified"
+U3FUQ1,A1DER7,100134,F41.1,Generalized anxiety disorder
+P82H96,2Z24TU,100134,A09,Infectious gastroenteritis and colitis
+R1A7OY,2Z24TU,100134,J06.9,Upper respiratory infection
+IB4MFA,2QN0RV,100135,B37.3,Vaginal candidiasis
+32XYV7,9MCDC9,100136,Z00.121,Well child exam
+7DI6ZH,9MCDC9,100136,Z51.81,Therapeutic drug monitoring
+0QCTJW,F7W5J7,100136,K02.9,Dental caries
+EL16QY,JVQ719,100136,T81.4,Infection post-procedure
+F13RGH,CHET4G,100136,Z00.00,General exam
+5OYUF2,AO6BZ9,100136,R51,Headache
+VBTEQ7,XKYNZ0,100137,K02.9,Dental caries
+R5Z5YQ,UZ1L6H,100137,Z00.00,General exam
+AA1U8Z,FAFE4U,100137,J06.9,Upper respiratory infection
+RSETLW,QBLXF1,100137,G47.0,"Insomnia, unspecified"
+W5ES02,QBLXF1,100137,F32.9,"Major depressive disorder, single episode"
+H7SOO3,TI41ED,100138,T81.4,Infection post-procedure
+PGZWED,PF4STO,100138,F41.1,Generalized anxiety disorder
+L3ATYZ,PF4STO,100138,H52.4,Presbyopia
+SQIIZ2,QRTO3H,100138,G43.9,"Migraine, unspecified"
+OL2AEM,QRTO3H,100138,J18.9,"Pneumonia, unspecified"
+SVEB3Q,BQ3OLD,100139,H61.2,Impacted cerumen
+2NGU2V,BQ3OLD,100139,J06.9,Upper respiratory infection
+K4COJS,7HLSHK,100140,M17.9,Osteoarthritis of knee
+N32J03,O2L265,100140,L60.0,Ingrown nail
+6BZ2UK,O2L265,100140,N30.00,Acute cystitis
+QK5S3V,N280LA,100140,S93.4,Ankle sprain
+3XQOON,N280LA,100140,R11.0,Nausea
+OWBQ3N,NX1RB5,100140,Z51.81,Therapeutic drug monitoring
+RQHVDF,UJNLCH,100141,Z79.899,Long term drug therapy
+XETORG,UJNLCH,100141,N39.0,Urinary tract infection
+KXGDMR,SS8FB6,100141,J18.9,"Pneumonia, unspecified"
+JESKGA,5G6IZM,100141,E66.9,"Obesity, unspecified"
+LHZ6GE,95RUR6,100142,M79.1,Myalgia
+TLGA1M,95RUR6,100142,E03.9,"Hypothyroidism, unspecified"
+QC3VLG,SYXJTW,100143,E66.9,"Obesity, unspecified"
+2N7GOQ,SYXJTW,100143,L03.90,"Cellulitis, unspecified"
+U5X912,2MEJD9,100144,M79.1,Myalgia
+ETF9NX,2MEJD9,100144,F41.1,Generalized anxiety disorder
+X4KPUJ,SJ1HCM,100144,R51,Headache
+4YU709,SJ1HCM,100144,M54.5,Low back pain
+73PXXP,3S1KWV,100144,Z13.6,Cardiovascular screening
+2BX5A8,A1PZCB,100144,J01.90,Acute sinusitis
+RUDLB0,DYBV0Y,100145,G43.9,"Migraine, unspecified"
+OLHM3F,DYBV0Y,100145,Z87.891,History of nicotine dependence
+TDXIN4,AF6ADL,100145,J06.9,Upper respiratory infection
+FZPABF,AF6ADL,100145,Z79.899,Long term drug therapy
+WJLL1X,QOYNTA,100145,N39.0,Urinary tract infection
+ICPVBK,QOYNTA,100145,R05,Cough
+GKEZ53,C3M1SY,100145,R06.02,Shortness of breath
+3D6E39,C3M1SY,100145,T81.4,Infection post-procedure
+UWA7YU,6ULZBX,100145,Z00.121,Well child exam
+2ZMIT1,8LZJ5H,100146,E78.5,"Hyperlipidemia, unspecified"
+UF78C2,8LZJ5H,100146,A09,Infectious gastroenteritis and colitis
+IU4ZGV,36UHTU,100146,K02.9,Dental caries
+B4TXG9,36UHTU,100146,B37.3,Vaginal candidiasis
+5G3S8B,7YKNXJ,100146,Z12.11,Colon cancer screening
+O6PZVL,680PNB,100146,K02.9,Dental caries
+OJAEZC,680PNB,100146,G47.0,"Insomnia, unspecified"
+PUQ779,M8TVKR,100147,H66.9,Otitis media
+QGLL2X,M8TVKR,100147,T81.4,Infection post-procedure
+Z3WT61,7KA4HF,100147,E66.9,"Obesity, unspecified"
+A762U2,7KA4HF,100147,J18.9,"Pneumonia, unspecified"
+51YHO5,VAF31H,100147,L03.90,"Cellulitis, unspecified"
+CK5CN7,BWVG9Y,100147,K02.9,Dental caries
+6FPUY5,BWVG9Y,100147,R07.9,Chest pain
+J5DDSV,8PHWG8,100148,Z71.9,"Counseling, unspecified"
+HOG44Z,8PHWG8,100148,Z00.00,General exam
+Y5W1HV,1S9TFZ,100148,I10,Essential (primary) hypertension
+RMK0H2,1S9TFZ,100148,S62.5,Fracture of metacarpal bone
+U5S4VK,NC79I0,100148,I10,Essential (primary) hypertension
+W7995B,NC79I0,100148,B34.9,"Viral infection, unspecified"
+DLGQLZ,2Q06J8,100148,R07.9,Chest pain
+CPTQQV,2Q06J8,100148,L03.90,"Cellulitis, unspecified"
+30H12L,IDDVEN,100148,Z51.81,Therapeutic drug monitoring
+ZB0Y17,IDDVEN,100148,I10,Essential (primary) hypertension
+NSL7O4,YWBANA,100149,E78.5,"Hyperlipidemia, unspecified"
+29PQ42,YWBANA,100149,R05,Cough
+P2IGQ0,YTMMKZ,100149,T81.4,Infection post-procedure
+VT2EL4,YTMMKZ,100149,I25.10,Atherosclerotic heart disease
+Z7MVR1,PXMQ86,100150,J01.90,Acute sinusitis
+PT08VG,S2BNFS,100150,M17.9,Osteoarthritis of knee
+MWRLFP,4B8L3J,100150,K21.9,GERD without esophagitis
+VIV3EE,4B8L3J,100150,J01.90,Acute sinusitis
+JRI3X1,A936YO,100150,H61.2,Impacted cerumen
+NJC3MD,SVTD2K,100151,M17.9,Osteoarthritis of knee
+VE2S4O,SVTD2K,100151,R10.9,Abdominal pain
+H9LIZP,WTQX9Y,100152,L03.90,"Cellulitis, unspecified"
+2D1GDA,DI61E4,100153,J06.9,Upper respiratory infection
+Y4UEIZ,DI61E4,100153,F41.1,Generalized anxiety disorder
+T3H7CV,TPV1DT,100154,I25.10,Atherosclerotic heart disease
+FHN448,5FIYR4,100154,Z13.6,Cardiovascular screening
+AS87M3,0RJ1RB,100155,E66.9,"Obesity, unspecified"
+Z5F2OI,0RJ1RB,100155,S62.5,Fracture of metacarpal bone
+PK8F73,8ODKMI,100155,Z87.891,History of nicotine dependence
+QY04Z5,8ODKMI,100155,N30.00,Acute cystitis
+FIOCLW,RCOT2S,100155,R51,Headache
+Z4389K,Q3TC5S,100155,Z79.899,Long term drug therapy
+V751V6,JAUT8F,100155,I25.10,Atherosclerotic heart disease
+BE5LJV,JAUT8F,100155,N39.0,Urinary tract infection
+VLQ9S6,QLZFWE,100156,Z00.121,Well child exam
+W4QEDC,EMR8P7,100156,L03.90,"Cellulitis, unspecified"
+87SSHA,PAP4NB,100157,S62.5,Fracture of metacarpal bone
+DBS0XN,PAP4NB,100157,S93.4,Ankle sprain
+KU3JON,QW1Y9X,100157,E66.9,"Obesity, unspecified"
+BKQ25C,QW1Y9X,100157,J06.9,Upper respiratory infection
+7PE0E2,4N1IUV,100157,R10.9,Abdominal pain
+6R587I,VHGS8N,100158,H66.9,Otitis media
+OXNQ11,CO0PW7,100158,H52.4,Presbyopia
+4GPYM1,CO0PW7,100158,H61.2,Impacted cerumen
+8CDL72,BWD8CJ,100159,I25.10,Atherosclerotic heart disease
+H1KW1L,U58BNQ,100160,F41.1,Generalized anxiety disorder
+P1G0IQ,DJ536C,100160,I10,Essential (primary) hypertension
+AZ2A55,Y3R9ID,100160,S62.5,Fracture of metacarpal bone
+10QN84,Y3R9ID,100160,J02.9,Acute pharyngitis
+UNFTUI,IT05DQ,100160,Z13.6,Cardiovascular screening
+4WGGQW,IT05DQ,100160,M17.9,Osteoarthritis of knee
+HJL6AI,AA7FGF,100161,J01.90,Acute sinusitis
+DRYBJH,ALKXVI,100162,G47.0,"Insomnia, unspecified"
+9NWI0K,UQFGMB,100162,Z00.00,General exam
+W0C99Y,UQFGMB,100162,M16.9,Osteoarthritis of hip
+TDYC7D,X69HBB,100163,J06.9,Upper respiratory infection
+VMMNRH,W63YD9,100163,F32.9,"Major depressive disorder, single episode"
+S03QAC,HHEEF7,100163,R11.0,Nausea
+93GF30,G5U0A9,100163,I10,Essential (primary) hypertension
+E8OB0F,G5U0A9,100163,Z23,Encounter for immunization
+XFWIXG,T1NQ03,100163,Z23,Encounter for immunization
+OSV44J,T1NQ03,100163,B37.3,Vaginal candidiasis
+VDUINM,8BEXS5,100164,N30.00,Acute cystitis
+WLWTBF,TE0KCN,100165,F41.1,Generalized anxiety disorder
+WPYMUL,TE0KCN,100165,G43.9,"Migraine, unspecified"
+5GLH79,KSU7JQ,100165,Z87.891,History of nicotine dependence
+17F1QT,UFZXHS,100166,H66.9,Otitis media
+42CEX3,19FKPT,100166,I10,Essential (primary) hypertension
+ETNKZ6,TSVP10,100167,F32.9,"Major depressive disorder, single episode"
+5XPD7Y,TSVP10,100167,L03.90,"Cellulitis, unspecified"
+MJO0OA,37EWIX,100167,E66.9,"Obesity, unspecified"
+4OWZAR,37EWIX,100167,I25.10,Atherosclerotic heart disease
+ESZP2L,UFL253,100168,Z79.899,Long term drug therapy
+S8ZPWV,80FNVB,100168,J30.9,Allergic rhinitis
+SZL2R0,FKTEKQ,100168,I25.10,Atherosclerotic heart disease
+FAHW32,RKDS1I,100168,Z00.00,General exam
+H9O9XG,UXOU94,100169,I25.10,Atherosclerotic heart disease
+FER478,UXOU94,100169,N30.00,Acute cystitis
+Q79B11,ZYLHJX,100169,J01.90,Acute sinusitis
+T3GOUK,ZYLHJX,100169,H66.9,Otitis media
+9YMOZU,7PWSZD,100169,M17.9,Osteoarthritis of knee
+IIBP2R,0H7ZGK,100169,Z00.121,Well child exam
+ZX1UPE,0H7ZGK,100169,Z00.121,Well child exam
+0UVK6U,3T5J7Q,100170,R05,Cough
+38HOAM,3T5J7Q,100170,Z13.6,Cardiovascular screening
+6U4JCZ,T2AIHL,100170,F32.9,"Major depressive disorder, single episode"
+SN95S2,T2AIHL,100170,R06.02,Shortness of breath
+N365B0,SXMNID,100171,H61.2,Impacted cerumen
+L2HY0Y,SXMNID,100171,N30.00,Acute cystitis
+7KGGYS,74D8VN,100171,T81.4,Infection post-procedure
+VLOS2B,74D8VN,100171,Z13.6,Cardiovascular screening
+RKYQJP,O1QZ81,100171,H52.4,Presbyopia
+0ZNTKB,OTWFRK,100171,T81.4,Infection post-procedure
+ASVMG3,33EA8M,100172,L60.0,Ingrown nail
+2H5WYN,33EA8M,100172,I25.10,Atherosclerotic heart disease
+DALAX8,TSH38E,100172,S93.4,Ankle sprain
+Q4HAK1,TSH38E,100172,M79.1,Myalgia
+XKCNPQ,Z8KFHH,100172,Z00.00,General exam
+H2COFE,Z8KFHH,100172,E66.9,"Obesity, unspecified"
+40FNO3,LFDBTI,100172,L03.90,"Cellulitis, unspecified"
+K3C051,LFDBTI,100172,Z51.81,Therapeutic drug monitoring
+2N8XC3,C8AHQJ,100172,R10.9,Abdominal pain
+YPO7TX,P2EEVQ,100173,M54.5,Low back pain
+7X6GF7,PNAQ8L,100173,M17.9,Osteoarthritis of knee
+SNWCY2,PNAQ8L,100173,Z00.121,Well child exam
+ZRZD0M,CCFSY9,100174,S62.5,Fracture of metacarpal bone
+YV9U9X,EEVK9E,100174,J06.9,Upper respiratory infection
+Z6WNPW,4GOYCV,100174,I25.10,Atherosclerotic heart disease
+IQ4QCY,4GOYCV,100174,F32.9,"Major depressive disorder, single episode"
+3466R4,EODC7P,100175,S62.5,Fracture of metacarpal bone
+H78TTR,EODC7P,100175,L03.90,"Cellulitis, unspecified"
+QDDS5X,F23XVA,100175,H52.4,Presbyopia
+YFZ9TZ,X68AOW,100176,N30.00,Acute cystitis
+F5VISZ,UZ9N26,100176,N39.0,Urinary tract infection
+K7MMVS,UZ9N26,100176,R05,Cough
+3KJSUK,HF54NR,100176,J01.90,Acute sinusitis
+Q4T68T,HF54NR,100176,F32.9,"Major depressive disorder, single episode"
+0WKZC3,MUVCHX,100176,K29.70,"Gastritis, without bleeding"
+995BJJ,NHIVYC,100177,Z12.11,Colon cancer screening
+DE29FB,TT9OYZ,100177,Z87.891,History of nicotine dependence
+ON6QDX,TT9OYZ,100177,R11.0,Nausea
+JK8MTX,RJWHNR,100178,S62.5,Fracture of metacarpal bone
+11ZEKZ,RJWHNR,100178,L60.0,Ingrown nail
+346N6X,QJW6VV,100178,F41.1,Generalized anxiety disorder
+F3JZC6,ZLGJMH,100178,B37.3,Vaginal candidiasis
+XDZZ3P,5F662I,100179,J30.9,Allergic rhinitis
+WX4FMM,BBYKI5,100179,R07.9,Chest pain
+25VKVH,E0B8IQ,100179,R06.02,Shortness of breath
+FSGEHG,E0B8IQ,100179,N30.00,Acute cystitis
+WP4EA1,Z0039I,100180,Z79.899,Long term drug therapy
+WMPDXW,UUIFHB,100180,A09,Infectious gastroenteritis and colitis
+ZJQC5L,UUIFHB,100180,Z79.899,Long term drug therapy
+B66521,FE39SZ,100180,J02.9,Acute pharyngitis
+E7R80A,3B1Q2G,100181,K21.9,GERD without esophagitis
+NZD5AM,3B1Q2G,100181,L03.90,"Cellulitis, unspecified"
+0PX7IH,W4PRXD,100181,L03.90,"Cellulitis, unspecified"
+O73C3S,W4PRXD,100181,A09,Infectious gastroenteritis and colitis
+YB8XUI,HS43NX,100182,R06.02,Shortness of breath
+NKWBCV,ZNEX7Y,100182,I25.10,Atherosclerotic heart disease
+NN1UXV,ZNEX7Y,100182,K29.70,"Gastritis, without bleeding"
+8CXQO6,AN2EN9,100182,F32.9,"Major depressive disorder, single episode"
+ZXMQWI,1JI1SC,100183,J18.9,"Pneumonia, unspecified"
+DXSRZR,1JI1SC,100183,K02.9,Dental caries
+RD5JO0,CVN3WO,100183,I25.10,Atherosclerotic heart disease
+O6O51I,AQWGII,100183,E78.5,"Hyperlipidemia, unspecified"
+5FNOFK,AQWGII,100183,M54.5,Low back pain
+JN1YUC,6869YA,100183,M17.9,Osteoarthritis of knee
+DDARNB,TXU1OF,100184,E03.9,"Hypothyroidism, unspecified"
+51QBXJ,2S3CA6,100184,E66.9,"Obesity, unspecified"
+R6FUWW,2S3CA6,100184,J01.90,Acute sinusitis
+7JJZ6I,E0XR85,100184,Z00.00,General exam
+HEGEGI,WSPOE1,100184,J30.9,Allergic rhinitis
+NXKJCR,WSPOE1,100184,J06.9,Upper respiratory infection
+DRLDE5,P0NWHZ,100184,N30.00,Acute cystitis
+63JKBK,P0NWHZ,100184,R06.02,Shortness of breath
+HCTKUD,55HCZ3,100185,J01.90,Acute sinusitis
+WKVEDM,55HCZ3,100185,R51,Headache
+5FVVDK,7F4O63,100185,H52.4,Presbyopia
+0UFBLF,7F4O63,100185,R11.0,Nausea
+W9LBIP,XRY869,100186,G43.9,"Migraine, unspecified"
+UDMYLE,XRY869,100186,Z23,Encounter for immunization
+UJUCJV,6R9FJ8,100187,Z71.9,"Counseling, unspecified"
+UURJC7,8WHHQN,100187,E03.9,"Hypothyroidism, unspecified"
+NEGYHF,8WHHQN,100187,R10.9,Abdominal pain
+DFJBYK,MPNF8I,100187,J18.9,"Pneumonia, unspecified"
+UVJN4J,MPNF8I,100187,E78.5,"Hyperlipidemia, unspecified"
+ASI47U,A1SY89,100187,S93.4,Ankle sprain
+DH9E5H,A1SY89,100187,Z87.891,History of nicotine dependence
+DF0C21,8SKZGY,100188,K59.00,"Constipation, unspecified"
+G9E8RV,CR59UD,100188,B37.3,Vaginal candidiasis
+398CHD,RM0VO4,100188,M54.5,Low back pain
+60EH3N,RM0VO4,100188,M17.9,Osteoarthritis of knee
+O96T1Z,BGFQJA,100189,S62.5,Fracture of metacarpal bone
+MOHEGM,BGFQJA,100189,S62.5,Fracture of metacarpal bone
+JNMZCW,MQCZ49,100189,J02.9,Acute pharyngitis
+SMBMIR,MQCZ49,100189,K21.9,GERD without esophagitis
+YO8VMK,CD7A49,100189,M79.1,Myalgia
+FFWI5Y,CD7A49,100189,K29.70,"Gastritis, without bleeding"
+YA9EI4,DQKCSI,100189,S62.5,Fracture of metacarpal bone
+IDNW9B,DQKCSI,100189,R06.02,Shortness of breath
+999IUV,9NIKSH,100190,N39.0,Urinary tract infection
+BTH9HH,XIVROO,100190,I25.10,Atherosclerotic heart disease
+MLBIFB,MJ4GRM,100190,K29.70,"Gastritis, without bleeding"
+48ESGG,38S328,100190,J44.9,Chronic obstructive pulmonary disease
+CQCJHD,I2CS3X,100190,K29.70,"Gastritis, without bleeding"
+2O5M6K,I2CS3X,100190,J44.9,Chronic obstructive pulmonary disease
+IM350M,H65JU0,100191,L60.0,Ingrown nail
+FP9J5T,TLGTKD,100191,Z00.00,General exam
+I6UJ9V,TLGTKD,100191,K21.9,GERD without esophagitis
+MIZV6D,HLQDEO,100191,N39.0,Urinary tract infection
+IJ7LB2,A144R8,100192,Z79.899,Long term drug therapy
+FG63F5,A144R8,100192,J02.9,Acute pharyngitis
+VT63EX,G3E6IL,100192,A09,Infectious gastroenteritis and colitis
+4N9JJM,G3E6IL,100192,Z87.891,History of nicotine dependence
+YLQOTL,MK79MF,100192,Z00.121,Well child exam
+JNZPPC,MK79MF,100192,Z13.6,Cardiovascular screening
+GJY6M7,PACFSV,100193,Z12.11,Colon cancer screening
+N4WGK0,HINMRC,100193,E03.9,"Hypothyroidism, unspecified"
+7A9ZMO,DK18R1,100193,Z51.81,Therapeutic drug monitoring
+5FYTVJ,DK18R1,100193,A09,Infectious gastroenteritis and colitis
+R725Y1,9US9HA,100193,Z00.121,Well child exam
+B7LHP9,E2KENN,100193,J06.9,Upper respiratory infection
+IVB0U5,JDHMI6,100194,M54.5,Low back pain
+TL3DZJ,JDHMI6,100194,M16.9,Osteoarthritis of hip
+ORMF1B,5UCV75,100194,R07.9,Chest pain
+MI45SC,LWWLWX,100194,K29.70,"Gastritis, without bleeding"
+UR3UDH,LWWLWX,100194,G47.0,"Insomnia, unspecified"
+U1LFT6,UWTBKG,100195,A09,Infectious gastroenteritis and colitis
+NK9T6I,LTUXCX,100196,R07.9,Chest pain
+KGI68O,BJR73T,100197,E66.9,"Obesity, unspecified"
+LC82EU,EM0OYR,100197,K02.9,Dental caries
+1T002H,LQX8Q0,100197,G47.0,"Insomnia, unspecified"
+AW4RCW,1II298,100197,Z23,Encounter for immunization
+ZF5S6P,G3ARYY,100198,R05,Cough
+YN15DD,ESKMNS,100199,Z51.81,Therapeutic drug monitoring
+LGBHAN,ESKMNS,100199,Z00.121,Well child exam
+VMVFP6,PEXQVW,100199,E03.9,"Hypothyroidism, unspecified"
+Q85BXD,BGR3YI,100199,N39.0,Urinary tract infection
+782OJO,U3D9AD,100199,M17.9,Osteoarthritis of knee
+QIUV48,U3D9AD,100199,H66.9,Otitis media
+J3VJ20,U2KU0G,100200,H52.4,Presbyopia
+B677FA,U2KU0G,100200,Z87.891,History of nicotine dependence
+U4ICXD,25XMT6,100200,J01.90,Acute sinusitis
+GC6EAE,25XMT6,100200,Z71.9,"Counseling, unspecified"
+H8Q54K,PR3T2U,100200,Z00.00,General exam
+OUUQWZ,XHBONT,100201,J06.9,Upper respiratory infection
+OOYZ9R,XHBONT,100201,K21.9,GERD without esophagitis
+5B6XDG,71060A,100201,R11.0,Nausea
+J3GMYB,71060A,100201,R06.02,Shortness of breath
+WW8H57,XNALN5,100201,B37.3,Vaginal candidiasis
+YI4C28,HU717K,100201,B37.3,Vaginal candidiasis
+QFTUTH,HU717K,100201,Z87.891,History of nicotine dependence
+D1J0JC,4HUZ8V,100202,J30.9,Allergic rhinitis
+3TGO10,4HUZ8V,100202,S62.5,Fracture of metacarpal bone
+YBH14J,5B3YN4,100202,R06.02,Shortness of breath
+80PISC,5B3YN4,100202,B34.9,"Viral infection, unspecified"
+YZYD6Z,6XWF7U,100202,K59.00,"Constipation, unspecified"
+USMUF7,JZ1SST,100203,J06.9,Upper respiratory infection
+48LMZU,KZE461,100203,M79.1,Myalgia
+CQL9DL,NXIR30,100203,H52.4,Presbyopia
+4HX53W,NXIR30,100203,G47.0,"Insomnia, unspecified"
+F5KLAN,2HV0BL,100203,H61.2,Impacted cerumen
+K4NK81,2HV0BL,100203,I25.10,Atherosclerotic heart disease
+4UCDVY,LEUTRT,100203,K29.70,"Gastritis, without bleeding"
+REKPMY,LEUTRT,100203,K29.70,"Gastritis, without bleeding"
+KNV1Z4,S4J6I3,100204,Z12.11,Colon cancer screening
+BAGFKP,S4J6I3,100204,M79.1,Myalgia
+OBLVPC,BQ0JCA,100204,M79.1,Myalgia
+LI88MT,BQ0JCA,100204,H61.2,Impacted cerumen
+WBI72I,K4T3GW,100204,K02.9,Dental caries
+CVWFX5,K4T3GW,100204,R11.0,Nausea
+QRN772,52059R,100205,T81.4,Infection post-procedure
+WOTVUJ,52059R,100205,A09,Infectious gastroenteritis and colitis
+E0ODAK,FEJGLN,100206,K21.9,GERD without esophagitis
+UP8VZU,J79FP6,100206,B34.9,"Viral infection, unspecified"
+KUO614,VPZ6WG,100207,S62.5,Fracture of metacarpal bone
+YKACAK,2QHKLB,100207,J44.9,Chronic obstructive pulmonary disease
+12G2I2,OUNHH0,100208,K21.9,GERD without esophagitis
+4AGXSS,0JRCO3,100208,Z23,Encounter for immunization
+CZWFDB,QHP1HW,100209,K59.00,"Constipation, unspecified"
+WM8IVA,MFZP2D,100209,R06.02,Shortness of breath
+QKML40,MFZP2D,100209,Z79.899,Long term drug therapy
+XH3RDO,FY6KTR,100209,L03.90,"Cellulitis, unspecified"
+D2W29P,0DX5RM,100209,J30.9,Allergic rhinitis
+I3HZ4C,0DX5RM,100209,Z51.81,Therapeutic drug monitoring
+QVYDD9,NRLZEA,100210,Z13.6,Cardiovascular screening
+88GZF7,A0ZIWG,100210,J18.9,"Pneumonia, unspecified"
+EJ26L2,VNWNH6,100211,Z23,Encounter for immunization
+IX5L71,FY3L67,100211,L60.0,Ingrown nail
+JHVUKB,FY3L67,100211,Z00.00,General exam
+DOA6WT,GNNTS1,100211,S93.4,Ankle sprain
+PKYKGH,GNNTS1,100211,J02.9,Acute pharyngitis
+D48JFF,Z1OGCC,100211,B34.9,"Viral infection, unspecified"
+B99K59,Z1OGCC,100211,T81.4,Infection post-procedure
+0KCVZX,SNF443,100211,N30.00,Acute cystitis
+QLO3DT,SNF443,100211,H61.2,Impacted cerumen
+HKRBV6,IOIH0M,100212,A09,Infectious gastroenteritis and colitis
+KRPU92,IOIH0M,100212,R06.02,Shortness of breath
+F0TQIM,7WRXU1,100212,M79.1,Myalgia
+9IMS3F,7WRXU1,100212,Z51.81,Therapeutic drug monitoring
+SGGHAF,OHMRKQ,100213,A09,Infectious gastroenteritis and colitis
+LGBSM3,OHMRKQ,100213,Z71.9,"Counseling, unspecified"
+3AIWLN,4RVNEQ,100213,J44.9,Chronic obstructive pulmonary disease
+4R1E8I,NJMHWW,100213,K59.00,"Constipation, unspecified"
+7RTACB,P9327V,100213,G47.0,"Insomnia, unspecified"
+BNEGVO,P9327V,100213,Z13.6,Cardiovascular screening
+LYPM23,5G1SZU,100214,G47.0,"Insomnia, unspecified"
+YFQAQ7,5G1SZU,100214,Z12.11,Colon cancer screening
+EHJP2I,DJFDWU,100214,Z79.899,Long term drug therapy
+0LOZ5H,DM4DEE,100214,G43.9,"Migraine, unspecified"
+AE44FM,SAXZ0L,100214,Z00.121,Well child exam
+KL8FVI,SAXZ0L,100214,A09,Infectious gastroenteritis and colitis
+2SAYRA,Z40FLY,100215,Z00.121,Well child exam
+W0ONW7,Z40FLY,100215,G43.9,"Migraine, unspecified"
+L5JU48,WGV1WR,100215,R06.02,Shortness of breath
+9AK4EO,SUVZ73,100215,Z79.899,Long term drug therapy
+E22ZQP,J9E4UB,100215,Z12.11,Colon cancer screening
+GW5J85,N8W5WJ,100216,M54.5,Low back pain
+G2RJ9F,MILQCQ,100217,J06.9,Upper respiratory infection
+9FOIN0,MILQCQ,100217,B37.3,Vaginal candidiasis
+OMA9IW,DAMX69,100218,Z00.00,General exam
+28MTU0,DAMX69,100218,H61.2,Impacted cerumen
+6GBZ0V,WR76YV,100218,H66.9,Otitis media
+TH4BCC,BFA2D1,100219,H52.4,Presbyopia
+7CD1PQ,BFA2D1,100219,K02.9,Dental caries
+X737I7,LAE71J,100219,M54.5,Low back pain
+8DX9R8,I6R8HV,100220,J06.9,Upper respiratory infection
+ESYH3K,RCIM5C,100220,F41.1,Generalized anxiety disorder
+CCN1AL,BL1ID1,100220,H61.2,Impacted cerumen
+NPUFRH,BL1ID1,100220,Z79.899,Long term drug therapy
+C73N9N,OBCCAS,100220,L60.0,Ingrown nail
+4UQPAB,VQXA52,100221,Z71.9,"Counseling, unspecified"
+0WSQBD,61WCLL,100221,Z12.11,Colon cancer screening
+V0HK7P,61WCLL,100221,H61.2,Impacted cerumen
+DMQZ7B,X01QP8,100221,J30.9,Allergic rhinitis
+R2UBFU,ZPU7S7,100221,B37.3,Vaginal candidiasis
+BWYVXR,ZPU7S7,100221,R10.9,Abdominal pain
+L2JR9U,X93IJP,100222,G43.9,"Migraine, unspecified"
+TMN7S3,X93IJP,100222,E66.9,"Obesity, unspecified"
+ORPYCG,11HX0P,100222,Z71.9,"Counseling, unspecified"
+MHO6F8,11HX0P,100222,I25.10,Atherosclerotic heart disease
+DS5F60,WG0OSX,100222,T81.4,Infection post-procedure
+RRD4K7,UCOI8B,100222,E78.5,"Hyperlipidemia, unspecified"
+IK6H0C,B4OXZC,100223,R11.0,Nausea
+JDM9CQ,ID0ZV3,100224,K02.9,Dental caries
+1Z3XYC,ID0ZV3,100224,H61.2,Impacted cerumen
+6LFZR0,GSPUR2,100224,S62.5,Fracture of metacarpal bone
+VFL8T2,3AYD2L,100224,Z51.81,Therapeutic drug monitoring
+8LGVEI,3AYD2L,100224,R07.9,Chest pain
+ONTSZX,BTJMXL,100225,R06.02,Shortness of breath
+99HH61,BTJMXL,100225,R05,Cough
+SZZVP5,KHC9VA,100225,R10.9,Abdominal pain
+DKI4M0,KI27LV,100225,J30.9,Allergic rhinitis
+0X6J7R,LGFQYM,100225,G47.0,"Insomnia, unspecified"
+CUXP7I,1QUHXC,100226,B34.9,"Viral infection, unspecified"
+Q5UXQV,1QUHXC,100226,Z87.891,History of nicotine dependence
+LJF7KN,NBMVJ5,100226,H52.4,Presbyopia
+J2EU6X,L23O5Z,100226,J30.9,Allergic rhinitis
+IAEJRO,L23O5Z,100226,F32.9,"Major depressive disorder, single episode"
+L4WC4I,WUDFSI,100226,I10,Essential (primary) hypertension
+3F2OA6,WUDFSI,100226,J02.9,Acute pharyngitis
+BD1ME3,FDX16Z,100226,G47.0,"Insomnia, unspecified"
+N7DJ24,PQZFAN,100227,R07.9,Chest pain
+HEWKYF,F0MOW9,100227,T81.4,Infection post-procedure
+AX4H9N,LAR0PS,100227,Z13.6,Cardiovascular screening
+67W9GC,XNBXS8,100228,R11.0,Nausea
+WP33UF,XNBXS8,100228,J02.9,Acute pharyngitis
+JW4LWN,6G2U2I,100229,R05,Cough
+ISCA8O,6G2U2I,100229,R07.9,Chest pain
+AZLO35,I2MUSO,100229,A09,Infectious gastroenteritis and colitis
+RNWP9M,I2MUSO,100229,K29.70,"Gastritis, without bleeding"
+9VREHJ,DA16I9,100229,J06.9,Upper respiratory infection
+I39SWQ,2BH1OU,100229,G47.0,"Insomnia, unspecified"
+9GPF7Z,2BH1OU,100229,L03.90,"Cellulitis, unspecified"
+KS7ZWR,XEQ9P3,100229,E78.5,"Hyperlipidemia, unspecified"
+SW3YLM,XEQ9P3,100229,J01.90,Acute sinusitis
+1PRFZH,ELLNCO,100230,S93.4,Ankle sprain
+BLXZ7B,6NM0SY,100230,T81.4,Infection post-procedure
+4ZQ48J,E01KW8,100230,R10.9,Abdominal pain
+VIDD46,SYNXR9,100230,S93.4,Ankle sprain
+87S91V,3RRKDY,100231,J06.9,Upper respiratory infection
+0R2CMC,AEHV3O,100231,R05,Cough
+I5JYZE,EEMKRI,100232,J44.9,Chronic obstructive pulmonary disease
+BRGO54,EEMKRI,100232,F41.1,Generalized anxiety disorder
+N8B3S7,418K6A,100232,J44.9,Chronic obstructive pulmonary disease
+DC4H9W,OEUI1M,100232,Z71.9,"Counseling, unspecified"
+PB86T3,OEUI1M,100232,Z79.899,Long term drug therapy
+9LE26J,14KEZW,100232,G43.9,"Migraine, unspecified"
+AOTTLT,14KEZW,100232,Z00.00,General exam
+LRHADC,M7Z93E,100233,H61.2,Impacted cerumen
+29EYB6,M7Z93E,100233,S93.4,Ankle sprain
+VPPQWP,CWOFOM,100234,L60.0,Ingrown nail
+MOMDQW,ZM7OJW,100234,Z23,Encounter for immunization
+YM8CTE,ZM7OJW,100234,Z23,Encounter for immunization
+LA3YAA,TOFBZT,100235,S93.4,Ankle sprain
+75WYRA,TOFBZT,100235,J06.9,Upper respiratory infection
+57O37G,FXBV9Y,100235,J02.9,Acute pharyngitis
+FGSOYV,FXBV9Y,100235,R05,Cough
+3KIIY3,6BHZS2,100236,L60.0,Ingrown nail
+B4U3C4,VBX324,100236,Z00.00,General exam
+3OLT3P,PL33W0,100236,J02.9,Acute pharyngitis
+MYZYS7,T3OMNN,100236,M79.1,Myalgia
+XUF1ZZ,T3OMNN,100236,I10,Essential (primary) hypertension
+MOPCHE,GIE95Q,100236,A09,Infectious gastroenteritis and colitis
+RM97FH,GIE95Q,100236,G47.0,"Insomnia, unspecified"
+FZZ5KI,1OYX75,100237,B37.3,Vaginal candidiasis
+FSZ5GK,1074WB,100237,J01.90,Acute sinusitis
+89ORZG,1074WB,100237,M17.9,Osteoarthritis of knee
+8LBQL2,UNWIP3,100237,M79.1,Myalgia
+XNP9T7,HYUSJ4,100238,H61.2,Impacted cerumen
+HWIGUP,94C3ZR,100238,E78.5,"Hyperlipidemia, unspecified"
+EQQ1RP,94C3ZR,100238,J02.9,Acute pharyngitis
+9E9WF2,TDF5UM,100238,J44.9,Chronic obstructive pulmonary disease
+E7ZW9P,7KVDP3,100238,M54.5,Low back pain
+GGYI1C,DQXVXP,100238,K29.70,"Gastritis, without bleeding"
+LHEGX2,DQXVXP,100238,M16.9,Osteoarthritis of hip
+9JOAQ4,2QGB6Q,100239,J01.90,Acute sinusitis
+9CDB86,2QGB6Q,100239,F32.9,"Major depressive disorder, single episode"
+SCCCOP,XPKNZ4,100239,M17.9,Osteoarthritis of knee
+N8G64X,XPKNZ4,100239,Z51.81,Therapeutic drug monitoring
+AH64XJ,1JKWQS,100240,J06.9,Upper respiratory infection
+XY7MR4,1JKWQS,100240,N39.0,Urinary tract infection
+CVX58V,P038CZ,100240,H61.2,Impacted cerumen
+Y0E3HH,G0QMUA,100240,J44.9,Chronic obstructive pulmonary disease
+JE787Z,IDVAC7,100240,T81.4,Infection post-procedure
+1EV4JG,IDVAC7,100240,Z71.9,"Counseling, unspecified"
+DQUJ8E,7R79WX,100241,K29.70,"Gastritis, without bleeding"
+87JZVK,7R79WX,100241,K59.00,"Constipation, unspecified"
+RSJXQN,ST0CQ5,100241,B34.9,"Viral infection, unspecified"
+6RPV4J,8O3M1N,100241,H52.4,Presbyopia
+O63BB6,8O3M1N,100241,R51,Headache
+N6DU49,P83DCY,100242,Z79.899,Long term drug therapy
+MII3LG,TADQN0,100242,N30.00,Acute cystitis
+AKEUWE,CSLR3I,100242,Z00.121,Well child exam
+26GQCP,CSLR3I,100242,M16.9,Osteoarthritis of hip
+A6HUCY,STD29G,100242,J01.90,Acute sinusitis
+1I8YTT,STD29G,100242,Z51.81,Therapeutic drug monitoring
+ABB3I4,JM1NND,100242,J02.9,Acute pharyngitis
+MBQMDA,JM1NND,100242,M16.9,Osteoarthritis of hip
+OPOLE8,BRHBJ2,100243,N30.00,Acute cystitis
+AFKK1V,E0HN3S,100243,Z71.9,"Counseling, unspecified"
+ESC8J9,E0HN3S,100243,L03.90,"Cellulitis, unspecified"
+KZQY1Y,G2XSJA,100243,J18.9,"Pneumonia, unspecified"
+D2W6YF,G2XSJA,100243,K29.70,"Gastritis, without bleeding"
+NU09S9,UBI1J9,100243,H66.9,Otitis media
+CNW893,UBI1J9,100243,B37.3,Vaginal candidiasis
+9OIVJ7,T1PK7W,100244,H66.9,Otitis media
+0WX3NL,T1PK7W,100244,E78.5,"Hyperlipidemia, unspecified"
+45GQUJ,9CJT79,100244,K29.70,"Gastritis, without bleeding"
+VQ9B33,4UN0IC,100245,Z79.899,Long term drug therapy
+AHMYS4,4UN0IC,100245,R06.02,Shortness of breath
+94H3ON,TZI9TG,100245,R51,Headache
+86TL8R,10YNM9,100245,Z13.6,Cardiovascular screening
+6BYNPN,10YNM9,100245,M54.5,Low back pain
+HT3Y24,EEWJV3,100245,M79.1,Myalgia
+H4JZIN,EEWJV3,100245,J01.90,Acute sinusitis
+JL63YS,BDJ1JR,100245,Z87.891,History of nicotine dependence
+C44OTH,BDJ1JR,100245,E66.9,"Obesity, unspecified"
+Q36GKT,EL6M6D,100246,R05,Cough
+ONGBO6,EL6M6D,100246,H66.9,Otitis media
+LCH0WI,1MM795,100247,Z12.11,Colon cancer screening
+EGGVDX,0PZMIF,100247,R06.02,Shortness of breath
+WJWU0I,TDTI3V,100247,L60.0,Ingrown nail
+5VBRJN,E48SDB,100247,J06.9,Upper respiratory infection
+0QTRHI,E48SDB,100247,Z71.9,"Counseling, unspecified"
+C5D3DK,A51CQ9,100247,R11.0,Nausea
+YH1O43,FFARCD,100248,R11.0,Nausea
+ZY9G1Z,V0VTQO,100249,J02.9,Acute pharyngitis
+V25UVX,R7EC02,100249,H52.4,Presbyopia
+5U4NQ0,R7EC02,100249,Z13.6,Cardiovascular screening
+GYLM2M,OETLHF,100249,S62.5,Fracture of metacarpal bone
+Q3XAJE,W06FCO,100249,R11.0,Nausea
+QW9WEQ,W06FCO,100249,R06.02,Shortness of breath
+MS5K19,4ILA99,100249,R05,Cough
+CDGZX1,4ILA99,100249,K29.70,"Gastritis, without bleeding"
+36VE88,9P9IFO,100250,H52.4,Presbyopia
+Z7R4MG,VVNXAS,100250,J01.90,Acute sinusitis
+6FK4FD,APBCGI,100251,J01.90,Acute sinusitis
+U3BQPT,QX5RGZ,100251,Z12.11,Colon cancer screening
+O73RKZ,QX5RGZ,100251,A09,Infectious gastroenteritis and colitis
+XUYUET,RR0YXF,100251,Z71.9,"Counseling, unspecified"
+S9VTGG,RR0YXF,100251,K59.00,"Constipation, unspecified"
+DMS7YC,60LK80,100252,S93.4,Ankle sprain
+NQ7T4D,O5HX3O,100252,F32.9,"Major depressive disorder, single episode"
+PAJ05C,O5HX3O,100252,J02.9,Acute pharyngitis
+T9ET2X,RPH7FE,100253,E78.5,"Hyperlipidemia, unspecified"
+IEE9SV,I8NG0J,100254,Z00.00,General exam
+6FZ8MP,IPWYYP,100254,B34.9,"Viral infection, unspecified"
+KBVDXD,IPWYYP,100254,Z00.121,Well child exam
+7KHH2Z,7WK3YK,100254,H61.2,Impacted cerumen
+VQALZT,7WK3YK,100254,Z23,Encounter for immunization
+VFZEQO,49BDUJ,100254,Z13.6,Cardiovascular screening
+CCTQ1R,49BDUJ,100254,B34.9,"Viral infection, unspecified"
+L7S56H,F4MCC7,100254,J06.9,Upper respiratory infection
+FH4X47,6KPGA3,100255,E78.5,"Hyperlipidemia, unspecified"
+9EDP4Q,6KPGA3,100255,E78.5,"Hyperlipidemia, unspecified"
+5U2WP5,MWCAR3,100255,K29.70,"Gastritis, without bleeding"
+4L3KMJ,MWCAR3,100255,N30.00,Acute cystitis
+W0XZJ7,BJK40A,100255,J30.9,Allergic rhinitis
+LDX7DW,BJK40A,100255,S62.5,Fracture of metacarpal bone
+0R9V7V,46L6T5,100255,Z13.6,Cardiovascular screening
+K3MOB3,X437V6,100255,H66.9,Otitis media
+5CRCLR,SBP0U6,100256,E78.5,"Hyperlipidemia, unspecified"
+JJTDEN,SBP0U6,100256,Z13.6,Cardiovascular screening
+EO4RLF,OFLJ04,100256,Z00.00,General exam
+JVY5PL,OFLJ04,100256,F32.9,"Major depressive disorder, single episode"
+B6KR19,R4L3TW,100257,R51,Headache
+PQTHZA,R4L3TW,100257,S93.4,Ankle sprain
+BM3SUR,L2D23B,100257,E78.5,"Hyperlipidemia, unspecified"
+Q8623S,L2D23B,100257,M79.1,Myalgia
+EOOM21,2HKF9Z,100257,K02.9,Dental caries
+HODOK4,2HKF9Z,100257,M54.5,Low back pain
+N2R0TV,37KC19,100257,G43.9,"Migraine, unspecified"
+9DZNQI,37KC19,100257,H61.2,Impacted cerumen
+587B5H,96HLT1,100258,M17.9,Osteoarthritis of knee
+7NW4YG,96HLT1,100258,R05,Cough
+BZJIP2,SGG6AP,100258,K21.9,GERD without esophagitis
+SLQICU,SGG6AP,100258,N30.00,Acute cystitis
+GQRUJZ,W9EHIF,100258,B34.9,"Viral infection, unspecified"
+IBZMOJ,W9EHIF,100258,T81.4,Infection post-procedure
+6EIIPB,UMJJE8,100259,S62.5,Fracture of metacarpal bone
+4BMOUB,YY9XDE,100259,E66.9,"Obesity, unspecified"
+B0XR4T,YY9XDE,100259,S62.5,Fracture of metacarpal bone
+7ZS8ZU,MV7ZCU,100259,J02.9,Acute pharyngitis
+65O37U,MV7ZCU,100259,M54.5,Low back pain
+O5OVV7,5SC1SX,100259,R11.0,Nausea
+19Z9A0,5SC1SX,100259,G47.0,"Insomnia, unspecified"
+0V5K2U,VTS4GT,100260,K02.9,Dental caries
+DS4PIJ,VTS4GT,100260,M16.9,Osteoarthritis of hip
+JDF1OL,PGVNBT,100260,S93.4,Ankle sprain
+GSU1AR,PGVNBT,100260,E03.9,"Hypothyroidism, unspecified"
+JVMYYB,QJ5PGX,100260,S62.5,Fracture of metacarpal bone
+HR1FO5,QJ5PGX,100260,B37.3,Vaginal candidiasis
+95GV8P,6UQWOX,100261,Z23,Encounter for immunization
+G8NUBO,L91S96,100261,Z00.00,General exam
+6QKT0C,RZ0YVX,100261,Z79.899,Long term drug therapy
+RKWWUB,DUXY4Y,100261,Z13.6,Cardiovascular screening
+C5WGLR,EUN0QT,100262,Z87.891,History of nicotine dependence
+7ITWH7,EK05MS,100262,Z23,Encounter for immunization
+XHU083,EK05MS,100262,E66.9,"Obesity, unspecified"
+B9J5VV,HOUBJL,100262,R06.02,Shortness of breath
+SITKQL,HOUBJL,100262,Z23,Encounter for immunization
+BXYUPC,L03CNW,100263,K59.00,"Constipation, unspecified"
+EV8UGJ,6GKW0U,100264,Z13.6,Cardiovascular screening
+MMWMC5,QTPH1B,100264,I10,Essential (primary) hypertension
+K11ZZ7,LUBVQL,100265,Z71.9,"Counseling, unspecified"
+QI4EPX,ITMKCL,100266,T81.4,Infection post-procedure
+OVDGVZ,M1L3IJ,100267,G47.0,"Insomnia, unspecified"
+YF927F,K8HRI8,100267,Z51.81,Therapeutic drug monitoring
+SL77P4,993XMH,100268,Z00.121,Well child exam
+H18EDY,2TUCU2,100268,J30.9,Allergic rhinitis
+IZBCDP,WZRC6Z,100268,Z71.9,"Counseling, unspecified"
+120U4I,WZRC6Z,100268,J01.90,Acute sinusitis
+EMFH2V,D6IYAH,100268,Z87.891,History of nicotine dependence
+AX5D5V,KK06HB,100268,J06.9,Upper respiratory infection
+C682OK,KK06HB,100268,K21.9,GERD without esophagitis
+WPDOB7,KM7K7W,100269,Z12.11,Colon cancer screening
+84BFPS,KM7K7W,100269,M16.9,Osteoarthritis of hip
+NEEZW3,ZJKNFS,100269,J02.9,Acute pharyngitis
+8OOJ4S,ZJKNFS,100269,R05,Cough
+568XIV,T3K9JO,100269,Z51.81,Therapeutic drug monitoring
+4CTWQG,VAPCFR,100270,N39.0,Urinary tract infection
+P0FS3A,Y89RK4,100270,M17.9,Osteoarthritis of knee
+XKJP87,JHY5SN,100271,B34.9,"Viral infection, unspecified"
+CFAGRI,JHY5SN,100271,I10,Essential (primary) hypertension
+EYFWYC,FAJWZC,100272,I25.10,Atherosclerotic heart disease
+Q44ZV0,FAJWZC,100272,M54.5,Low back pain
+AE9JZY,V2I5QZ,100272,B37.3,Vaginal candidiasis
+WUIN1X,V2I5QZ,100272,K02.9,Dental caries
+GYHILP,MXN8NC,100272,Z87.891,History of nicotine dependence
+9NPF6S,7ODGPW,100272,Z00.121,Well child exam
+KD85J0,7ODGPW,100272,E66.9,"Obesity, unspecified"
+N79QPR,D6PUYV,100273,Z00.00,General exam
+95B3H2,D6PUYV,100273,H66.9,Otitis media
+5DHDM6,B7XV89,100273,M17.9,Osteoarthritis of knee
+X9C6SQ,B7XV89,100273,B37.3,Vaginal candidiasis
+P9BMF5,V21CM6,100273,R06.02,Shortness of breath
+I9GO4E,V21CM6,100273,M54.5,Low back pain
+TIWJRY,R0VNZ3,100273,F32.9,"Major depressive disorder, single episode"
+D18GXH,R0VNZ3,100273,Z23,Encounter for immunization
+J3GO2K,815YU1,100273,M54.5,Low back pain
+GOLY7V,815YU1,100273,S93.4,Ankle sprain
+1WXBSE,DEHDHB,100274,G47.0,"Insomnia, unspecified"
+6JE0XN,DEHDHB,100274,F41.1,Generalized anxiety disorder
+NVXK6U,0MAWS0,100274,Z00.121,Well child exam
+WU73HI,0MAWS0,100274,R05,Cough
+DD2ANH,D32OQU,100275,T81.4,Infection post-procedure
+JNKHH9,8TD2QN,100275,M17.9,Osteoarthritis of knee
+5RIMQ3,8TD2QN,100275,Z12.11,Colon cancer screening
+0D6UDK,QZSLWQ,100275,Z87.891,History of nicotine dependence
+91ZXVV,4AQFUJ,100275,M54.5,Low back pain
+BLTWXI,4AQFUJ,100275,A09,Infectious gastroenteritis and colitis
+URA6BW,72K9EL,100276,Z71.9,"Counseling, unspecified"
+J2QEO1,72K9EL,100276,A09,Infectious gastroenteritis and colitis
+6NYD81,8XKD9O,100277,J02.9,Acute pharyngitis
+JSPJS9,8XKD9O,100277,Z13.6,Cardiovascular screening
+DA02OD,RTEOYL,100277,A09,Infectious gastroenteritis and colitis
+AKV01Q,RTEOYL,100277,F41.1,Generalized anxiety disorder
+KBW974,1VI5BO,100277,Z87.891,History of nicotine dependence
+Z636U1,1VI5BO,100277,L03.90,"Cellulitis, unspecified"
+PG74YL,HM7Z4X,100277,K21.9,GERD without esophagitis
+8K54LS,HM7Z4X,100277,B34.9,"Viral infection, unspecified"
+8G0R1G,FGAM4F,100278,I10,Essential (primary) hypertension
+NOAFZT,14W7KP,100278,Z87.891,History of nicotine dependence
+P9XO1Z,RNN0QS,100278,M16.9,Osteoarthritis of hip
+WMZY7A,RNN0QS,100278,R11.0,Nausea
+KRV4CY,S3Q5CN,100278,H61.2,Impacted cerumen
+HXA5R3,S3Q5CN,100278,R11.0,Nausea
+H1LS77,X8TFQX,100279,J06.9,Upper respiratory infection
+G5TYKV,P8EKZG,100279,B34.9,"Viral infection, unspecified"
+5YTI2B,DV19BB,100279,N30.00,Acute cystitis
+8PAZUH,DV19BB,100279,R11.0,Nausea
+O0N4KW,SUBLJP,100280,H52.4,Presbyopia
+DK2F8U,SUBLJP,100280,R10.9,Abdominal pain
+PED8EP,JD1BZX,100280,F41.1,Generalized anxiety disorder
+LU5QHE,9VH1S1,100280,F32.9,"Major depressive disorder, single episode"
+4MRT73,JAPMER,100280,J44.9,Chronic obstructive pulmonary disease
+VPGR88,T55DX1,100280,L03.90,"Cellulitis, unspecified"
+NEIUPM,T55DX1,100280,K29.70,"Gastritis, without bleeding"
+B13JZB,KJIF57,100281,I10,Essential (primary) hypertension
+WK102L,XQTORJ,100281,F41.1,Generalized anxiety disorder
+0FHQFW,BCKUF3,100281,J44.9,Chronic obstructive pulmonary disease
+GBLAH8,BCKUF3,100281,Z12.11,Colon cancer screening
+FNZ7XH,UGLGEP,100282,F41.1,Generalized anxiety disorder
+9YZF2W,CWGEQ0,100282,R10.9,Abdominal pain
+U9EL09,SPTM29,100282,Z00.00,General exam
+VJV27T,KWPX0S,100282,Z00.121,Well child exam
+WXYPT8,QMLNKR,100283,M17.9,Osteoarthritis of knee
+UOGHT1,QMLNKR,100283,H61.2,Impacted cerumen
+MP7DK1,USNA4A,100283,M17.9,Osteoarthritis of knee
+JHWL2A,XZCF3H,100283,G43.9,"Migraine, unspecified"
+0U3WOX,XZCF3H,100283,M54.5,Low back pain
+QNW48F,N8VCWA,100283,S93.4,Ankle sprain
+6R4MK6,N8VCWA,100283,Z00.00,General exam
+JSN36U,5G0GER,100284,R05,Cough
+V586ZT,5G0GER,100284,Z00.00,General exam
+HH9VBI,8D9K8Y,100284,Z23,Encounter for immunization
+D6LR5I,8D9K8Y,100284,H52.4,Presbyopia
+5DMG19,RX0RAH,100285,J01.90,Acute sinusitis
+OWIYSB,RX0RAH,100285,E78.5,"Hyperlipidemia, unspecified"
+FPXTSK,711H5Y,100285,K59.00,"Constipation, unspecified"
+B27HD4,711H5Y,100285,E78.5,"Hyperlipidemia, unspecified"
+TI9HZZ,NT8KPT,100285,Z87.891,History of nicotine dependence
+UPZEPT,NT8KPT,100285,B37.3,Vaginal candidiasis
+SIFARB,UL0TE3,100285,Z00.00,General exam
+3JPGGE,JFSHP6,100286,R07.9,Chest pain
+K5R9MJ,4SUBTQ,100286,N30.00,Acute cystitis
+486IB3,4SUBTQ,100286,B34.9,"Viral infection, unspecified"
+WTUO72,OSVQFY,100286,K29.70,"Gastritis, without bleeding"
+6T6012,OSVQFY,100286,Z13.6,Cardiovascular screening
+9Q6NMN,2SIM70,100287,H52.4,Presbyopia
+Q8I07F,RU8S9J,100287,Z00.121,Well child exam
+CA5DWY,RU8S9J,100287,T81.4,Infection post-procedure
+N056Y9,CTJT4V,100287,F41.1,Generalized anxiety disorder
+AGDWVY,T1L1SX,100287,B37.3,Vaginal candidiasis
+LDZI27,T1L1SX,100287,S62.5,Fracture of metacarpal bone
+N8CPXL,QTXM1C,100288,Z13.6,Cardiovascular screening
+I0NAM2,K518EI,100288,M79.1,Myalgia
+Z5A63K,K518EI,100288,R05,Cough
+EEXFJY,KDRC5T,100289,H66.9,Otitis media
+JQV3M2,KDRC5T,100289,K29.70,"Gastritis, without bleeding"
+47ZDHQ,87IFUN,100289,N39.0,Urinary tract infection
+S9XVHK,87IFUN,100289,J02.9,Acute pharyngitis
+NDPDCV,F8ODSS,100289,Z87.891,History of nicotine dependence
+5GB9RM,KK3S6C,100289,R51,Headache
+LE3SGB,7R622E,100289,S93.4,Ankle sprain
+FV5LRK,0JT4VI,100290,S93.4,Ankle sprain
+OWQV47,VEVWEW,100291,Z00.00,General exam
+4F2SL1,6WCVKM,100291,K29.70,"Gastritis, without bleeding"
+DXQWNA,I3G9HN,100291,G47.0,"Insomnia, unspecified"
+1IL19L,6FT1G8,100292,H52.4,Presbyopia
+2QA6G7,6FT1G8,100292,Z13.6,Cardiovascular screening
+4CD50V,CCFNQ6,100292,E66.9,"Obesity, unspecified"
+CNUF3N,CCFNQ6,100292,Z79.899,Long term drug therapy
+JI7I5Q,XC05MH,100293,R05,Cough
+LM1JBU,QD76ER,100293,S93.4,Ankle sprain
+5K7S3G,LJSNVC,100293,J01.90,Acute sinusitis
+VSO6L6,LJSNVC,100293,K21.9,GERD without esophagitis
+NQ0X39,6BCQPW,100294,J01.90,Acute sinusitis
+J30Z03,GZPU58,100294,H61.2,Impacted cerumen
+CIQIKD,AY9BHZ,100294,N39.0,Urinary tract infection
+4IZ37P,AY9BHZ,100294,L60.0,Ingrown nail
+YXZJBD,8EEC6I,100294,L03.90,"Cellulitis, unspecified"
+5KPZLK,OK0RQZ,100295,B37.3,Vaginal candidiasis
+APX9JW,OK0RQZ,100295,B34.9,"Viral infection, unspecified"
+UC44FE,J2UL9B,100295,A09,Infectious gastroenteritis and colitis
+EWSSE3,NCA8OU,100295,R10.9,Abdominal pain
+8Q5O67,9HJZ6X,100296,R06.02,Shortness of breath
+7CP73B,4EE639,100296,G47.0,"Insomnia, unspecified"
+7IL7I1,4EE639,100296,N39.0,Urinary tract infection
+8CURD1,FOS215,100296,G43.9,"Migraine, unspecified"
+NHQB9H,L46D9K,100297,J30.9,Allergic rhinitis
+KYPVEL,N3KN6T,100297,R11.0,Nausea
+EARMSM,2LC0DL,100297,J18.9,"Pneumonia, unspecified"
+VKD7A7,AD7BKZ,100298,M79.1,Myalgia
+WNWW86,AD7BKZ,100298,Z00.00,General exam
+LGNUZM,VH3TCM,100299,E66.9,"Obesity, unspecified"
+77XHOG,VH3TCM,100299,J44.9,Chronic obstructive pulmonary disease
+6ARLXO,5XRO5E,100300,S93.4,Ankle sprain
+DLMZKD,XC4X8D,100300,M54.5,Low back pain
+9ZFUV0,XC4X8D,100300,B37.3,Vaginal candidiasis
+KN669U,GN7POI,100301,Z51.81,Therapeutic drug monitoring
+X21ZXI,GN7POI,100301,R10.9,Abdominal pain
+39A5PF,Y39PHL,100301,Z23,Encounter for immunization
+6JFNZB,7UKWU3,100301,M16.9,Osteoarthritis of hip
+T6P1UL,7UKWU3,100301,G47.0,"Insomnia, unspecified"
+CPLA1K,WSBJF2,100302,R06.02,Shortness of breath
+KJF3Z1,WSBJF2,100302,G43.9,"Migraine, unspecified"
+MVQ08T,SLN9TS,100302,S62.5,Fracture of metacarpal bone
+CPD3IN,14S7KU,100302,H61.2,Impacted cerumen
+3WXUOJ,17HMH9,100303,Z71.9,"Counseling, unspecified"
+KBEFR7,17HMH9,100303,F32.9,"Major depressive disorder, single episode"
+HG6KPJ,464L8H,100303,B37.3,Vaginal candidiasis
+8Y41II,6L1CO2,100303,R11.0,Nausea
+MXNW8A,DB4I4W,100304,J01.90,Acute sinusitis
+P6797W,DB4I4W,100304,J02.9,Acute pharyngitis
+E9CY64,30YLGF,100305,B37.3,Vaginal candidiasis
+E2DNTJ,0LWOCD,100305,K29.70,"Gastritis, without bleeding"
+AHMOD4,0LWOCD,100305,M16.9,Osteoarthritis of hip
+IJ628D,NS9B2N,100305,J18.9,"Pneumonia, unspecified"
+J8QV69,NS9B2N,100305,I25.10,Atherosclerotic heart disease
+BW86PK,OMFAL6,100306,T81.4,Infection post-procedure
+GZ8HFO,I462XQ,100306,M79.1,Myalgia
+Y2OT5H,OA01NP,100307,I10,Essential (primary) hypertension
+L9C67X,OA01NP,100307,Z79.899,Long term drug therapy
+205WBY,NL3RHA,100307,M79.1,Myalgia
+6228TJ,NL3RHA,100307,R07.9,Chest pain
+MQYFJV,IQ6KKG,100307,J44.9,Chronic obstructive pulmonary disease
+JKO7Q0,IQ6KKG,100307,H66.9,Otitis media
+HF4SP1,9Z7T5C,100307,Z00.00,General exam
+2ZSGTG,S1CSM7,100308,I10,Essential (primary) hypertension
+15MHDA,S1CSM7,100308,L60.0,Ingrown nail
+KJ5LSZ,RBOASB,100308,K21.9,GERD without esophagitis
+77AC9Z,RBOASB,100308,L03.90,"Cellulitis, unspecified"
+R93DM0,AUAXQI,100308,M16.9,Osteoarthritis of hip
+8MFWRS,AUAXQI,100308,K21.9,GERD without esophagitis
+JJRAQL,XIOKNI,100308,B37.3,Vaginal candidiasis
+MUKSSX,XIOKNI,100308,I25.10,Atherosclerotic heart disease
+FA0QDU,ZNYSLB,100308,J06.9,Upper respiratory infection
+5Z88FT,ZNYSLB,100308,R07.9,Chest pain
+H4NJUZ,EURELW,100309,Z13.6,Cardiovascular screening
+SXEM11,TNE1XT,100309,N30.00,Acute cystitis
+EOI6SO,X9I9OI,100309,A09,Infectious gastroenteritis and colitis
+GFP76O,X9I9OI,100309,Z23,Encounter for immunization
+WBTMS5,XOM42M,100309,F41.1,Generalized anxiety disorder
+MZJQI2,XOM42M,100309,M16.9,Osteoarthritis of hip
+9ER7B4,B3CGHX,100309,Z51.81,Therapeutic drug monitoring
+M7CKKN,1MHOUA,100310,N30.00,Acute cystitis
+XL9FQZ,1MHOUA,100310,E66.9,"Obesity, unspecified"
+UA67M1,XZAK0G,100311,J30.9,Allergic rhinitis
+JGML19,IZHDML,100311,I10,Essential (primary) hypertension
+VGJSFD,PYIIQH,100311,K02.9,Dental caries
+1969TN,LWQR20,100312,J01.90,Acute sinusitis
+OMEPF3,0RAED7,100312,S93.4,Ankle sprain
+8S9CMW,0RAED7,100312,S62.5,Fracture of metacarpal bone
+WS72UX,MQFAMN,100312,E78.5,"Hyperlipidemia, unspecified"
+19188D,BK3933,100313,G43.9,"Migraine, unspecified"
+13TA23,BK3933,100313,I10,Essential (primary) hypertension
+AL650P,CP3SFS,100313,G43.9,"Migraine, unspecified"
+FJH0DJ,X2D12P,100313,J18.9,"Pneumonia, unspecified"
+8ENRM0,X2D12P,100313,E03.9,"Hypothyroidism, unspecified"
+JCRK85,0ENBA2,100313,Z23,Encounter for immunization
+CWN8LB,GKHWZU,100313,R10.9,Abdominal pain
+P5QROS,Q0NEVD,100314,J30.9,Allergic rhinitis
+QXYV2Z,Q0NEVD,100314,Z51.81,Therapeutic drug monitoring
+XTV6HF,ZNKV24,100314,Z00.00,General exam
+TCZWFI,UBLKDB,100314,K59.00,"Constipation, unspecified"
+NFBOOK,BE4SMB,100314,I10,Essential (primary) hypertension
+DUF5R4,43ZCKZ,100315,I10,Essential (primary) hypertension
+S31QS5,7RYT4M,100315,B34.9,"Viral infection, unspecified"
+NSO58V,2DUPOB,100315,E78.5,"Hyperlipidemia, unspecified"
+1DR2OL,NPTTKC,100315,J30.9,Allergic rhinitis
+3P1L3Q,LAPH34,100316,H66.9,Otitis media
+87J7K3,8K3C2M,100316,K02.9,Dental caries
+RNLNTE,PO3NYJ,100316,R07.9,Chest pain
+N11PUL,52JIV0,100316,Z23,Encounter for immunization
+PGCTT4,52JIV0,100316,R10.9,Abdominal pain
+JGGTF9,DI3HNG,100316,J06.9,Upper respiratory infection
+IK2LWF,DI3HNG,100316,L03.90,"Cellulitis, unspecified"
+P8067Y,NLHBZQ,100317,J02.9,Acute pharyngitis
+0HG55A,NLHBZQ,100317,J18.9,"Pneumonia, unspecified"
+RBU7GE,7T9CJ6,100317,I25.10,Atherosclerotic heart disease
+BGDHYG,CM4C93,100317,Z51.81,Therapeutic drug monitoring
+PIS1XX,CM4C93,100317,Z51.81,Therapeutic drug monitoring
+MGPPMS,ECG8AZ,100318,M17.9,Osteoarthritis of knee
+3OWEHS,ECG8AZ,100318,J02.9,Acute pharyngitis
+CK2TMC,9FS74R,100318,S93.4,Ankle sprain
+9595RE,9FS74R,100318,K02.9,Dental caries
+A9ZJK7,JJINRM,100318,L60.0,Ingrown nail
+QTEQ6C,JJINRM,100318,Z23,Encounter for immunization
+TMRRW6,XITFYD,100318,K59.00,"Constipation, unspecified"
+WMP2VJ,XITFYD,100318,R06.02,Shortness of breath
+OIZQRF,KGTOBZ,100319,J02.9,Acute pharyngitis
+PT3AST,AFXXGX,100319,J30.9,Allergic rhinitis
+6M6UR3,N8YO5P,100319,K21.9,GERD without esophagitis
+3588OO,XG0SH5,100319,Z51.81,Therapeutic drug monitoring
+QUW295,XG0SH5,100319,R05,Cough
+NLV6GM,F84LRU,100320,L60.0,Ingrown nail
+TT2I81,F84LRU,100320,I25.10,Atherosclerotic heart disease
+6S2LPP,NPDIDR,100321,J06.9,Upper respiratory infection
+E56793,NPDIDR,100321,Z13.6,Cardiovascular screening
+GLN70C,UHCRHY,100322,A09,Infectious gastroenteritis and colitis
+PFFK67,UHCRHY,100322,M54.5,Low back pain
+F9M5ET,KIDBLF,100322,F32.9,"Major depressive disorder, single episode"
+ZK9IJ6,46XT7I,100322,I25.10,Atherosclerotic heart disease
+AHWDKP,4BZLBC,100323,R10.9,Abdominal pain
+I5L4WS,E2K1RP,100323,Z00.00,General exam
+KA998B,OU85VI,100323,K02.9,Dental caries
+I0GW6H,AUIG4Q,100323,Z13.6,Cardiovascular screening
+Q3H5KX,AUIG4Q,100323,R51,Headache
+6W5PPL,DF61CZ,100323,J01.90,Acute sinusitis
+YZY3IR,DF61CZ,100323,Z79.899,Long term drug therapy
+YR2OJ7,YLOPZ9,100324,L03.90,"Cellulitis, unspecified"
+TVEMOJ,YLOPZ9,100324,J02.9,Acute pharyngitis
+FFHME6,UAK1HM,100324,E78.5,"Hyperlipidemia, unspecified"
+KZNKXM,IJZFEQ,100325,G47.0,"Insomnia, unspecified"
+UZB7YL,ATD2S7,100325,Z51.81,Therapeutic drug monitoring
+6FY3HZ,ATD2S7,100325,R10.9,Abdominal pain
+NS3PRW,58TDJA,100325,Z79.899,Long term drug therapy
+JNSAPP,58TDJA,100325,H66.9,Otitis media
+DWPG68,9NA1B9,100325,H61.2,Impacted cerumen
+LYN2BX,IXLHLP,100325,J18.9,"Pneumonia, unspecified"
+RWXDAV,IXLHLP,100325,J30.9,Allergic rhinitis
+Y7CKGE,5TUKHM,100326,R11.0,Nausea
+EUA2X3,5TUKHM,100326,B37.3,Vaginal candidiasis
+UMMMW1,KUW62Q,100326,E78.5,"Hyperlipidemia, unspecified"
+G2GRU2,F54Q49,100326,H61.2,Impacted cerumen
+VD9LQG,A3NO78,100327,Z87.891,History of nicotine dependence
+WWR0HC,A3NO78,100327,M54.5,Low back pain
+2GQQ4F,M9DTO6,100327,G43.9,"Migraine, unspecified"
+5I8L47,YTN46P,100327,R06.02,Shortness of breath
+43L1MW,GVE0MM,100327,R10.9,Abdominal pain
+6XSHXX,GVE0MM,100327,J30.9,Allergic rhinitis
+4MH5AE,XI922D,100327,Z13.6,Cardiovascular screening
+01XPIB,8CBVF9,100328,M16.9,Osteoarthritis of hip
+LI3LKM,8CBVF9,100328,Z12.11,Colon cancer screening
+EZK9GO,ZSEHUE,100328,L03.90,"Cellulitis, unspecified"
+B6GMU9,ZSEHUE,100328,Z13.6,Cardiovascular screening
+ZLJ3QV,JQ0KDO,100328,A09,Infectious gastroenteritis and colitis
+H5LABK,JQ0KDO,100328,K21.9,GERD without esophagitis
+15XHFY,NOS0LK,100328,Z00.00,General exam
+LII13D,NOS0LK,100328,R51,Headache
+UN0B0H,7WS9KC,100328,M16.9,Osteoarthritis of hip
+Z623OM,MS3GOU,100329,H61.2,Impacted cerumen
+UIEWDI,MS3GOU,100329,M16.9,Osteoarthritis of hip
+769BN6,7CQ2OH,100329,M17.9,Osteoarthritis of knee
+0Z3ULY,7CQ2OH,100329,S62.5,Fracture of metacarpal bone
+82TZFH,90FGL8,100329,F32.9,"Major depressive disorder, single episode"
+9EPJ3W,TZDN4A,100329,I10,Essential (primary) hypertension
+VXAFWR,TZDN4A,100329,M16.9,Osteoarthritis of hip
+HLHMFB,646TX7,100329,S93.4,Ankle sprain
+WLAIUE,PNW5IP,100330,M79.1,Myalgia
+AV5HXS,HBFPNR,100330,F32.9,"Major depressive disorder, single episode"
+3MTIV1,WIJLIP,100330,N30.00,Acute cystitis
+EAL6N1,9XM8IN,100330,K21.9,GERD without esophagitis
+IMJX8U,9XM8IN,100330,F32.9,"Major depressive disorder, single episode"
+809W8I,ZO2E5L,100331,R51,Headache
+EHLZ7W,ZO2E5L,100331,J44.9,Chronic obstructive pulmonary disease
+ZXF4FM,N6DDX3,100331,R05,Cough
+3X26M9,N6DDX3,100331,K29.70,"Gastritis, without bleeding"
+QLHYZJ,TQK3CF,100331,K59.00,"Constipation, unspecified"
+N0X168,QUZH2J,100332,Z71.9,"Counseling, unspecified"
+B8L5BO,QUZH2J,100332,Z51.81,Therapeutic drug monitoring
+3XYQWO,JFAGSJ,100332,H66.9,Otitis media
+3ZNR3S,JFAGSJ,100332,K29.70,"Gastritis, without bleeding"
+C0GRDM,644NGM,100332,H66.9,Otitis media
+EJM40T,644NGM,100332,J18.9,"Pneumonia, unspecified"
+WI8FSU,3VZM5X,100332,K59.00,"Constipation, unspecified"
+0XOFKR,622FFX,100332,M79.1,Myalgia
+Z0P84M,622FFX,100332,R51,Headache
+PIH47K,LO53AA,100333,Z12.11,Colon cancer screening
+DLVXUX,LNQFB5,100334,Z71.9,"Counseling, unspecified"
+9M8ED4,3AK0L1,100334,H66.9,Otitis media
+M5X1DO,CUC8PF,100334,Z23,Encounter for immunization
+EV5KD8,56NHPG,100334,I25.10,Atherosclerotic heart disease
+AV27T5,GBQRDF,100334,Z71.9,"Counseling, unspecified"
+XYVQM6,BW51EP,100335,J02.9,Acute pharyngitis
+DRCYG8,9DOWCP,100335,G47.0,"Insomnia, unspecified"
+N8ECSS,9DOWCP,100335,K21.9,GERD without esophagitis
+XKWIDO,A9EOCH,100335,Z00.00,General exam
+JOEI3M,A9EOCH,100335,M16.9,Osteoarthritis of hip
+KT3RAJ,OMDCKH,100336,S93.4,Ankle sprain
+D08PY8,DLYZIE,100336,G43.9,"Migraine, unspecified"
+2EYO55,DLYZIE,100336,S62.5,Fracture of metacarpal bone
+WFZ1D3,ZZUP9I,100336,R51,Headache
+1W9US1,ZZUP9I,100336,E66.9,"Obesity, unspecified"
+SGGCMK,SNBKW3,100336,R10.9,Abdominal pain
+197XEA,D99MT3,100336,R05,Cough
+P94HGV,Y45OK3,100337,M54.5,Low back pain
+4CQ121,XXV0LP,100337,J02.9,Acute pharyngitis
+T88MUV,RZLD8J,100337,B34.9,"Viral infection, unspecified"
+O07UYG,CMF9HX,100338,G47.0,"Insomnia, unspecified"
+W6PGD5,TQQQSZ,100338,H66.9,Otitis media
+152Q6E,NA5A10,100339,S62.5,Fracture of metacarpal bone
+OXKMCI,NA5A10,100339,J18.9,"Pneumonia, unspecified"
+T8RJ1R,3XVHYS,100339,J02.9,Acute pharyngitis
+Y4ZX5G,TPYHHO,100339,Z23,Encounter for immunization
+YN4L04,TPYHHO,100339,I25.10,Atherosclerotic heart disease
+PUEKHQ,1L2GWV,100339,G47.0,"Insomnia, unspecified"
+I7U886,1L2GWV,100339,J30.9,Allergic rhinitis
+2CWGGJ,RUW9GN,100339,R51,Headache
+WC0W2A,RUW9GN,100339,Z13.6,Cardiovascular screening
+P0DT2C,3TQZEJ,100340,Z71.9,"Counseling, unspecified"
+HZYSRB,7W5NCP,100340,M17.9,Osteoarthritis of knee
+KSEPB5,Y992DK,100340,E78.5,"Hyperlipidemia, unspecified"
+Z49L7D,Y992DK,100340,J18.9,"Pneumonia, unspecified"
+F3THR5,CNJMNT,100340,K29.70,"Gastritis, without bleeding"
+E7S593,CNJMNT,100340,B34.9,"Viral infection, unspecified"
+AF7Q3L,S0APWQ,100340,J06.9,Upper respiratory infection
+JIUGVD,ASJWGR,100341,R05,Cough
+YQXPRJ,ASJWGR,100341,H66.9,Otitis media
+D9RUN9,CKTZQT,100341,H61.2,Impacted cerumen
+3ZFWBC,Q870AQ,100341,I25.10,Atherosclerotic heart disease
+CZJ7PM,Q870AQ,100341,H52.4,Presbyopia
+M9GNAI,RH7MKI,100341,H52.4,Presbyopia
+OI2R4B,EF64ZC,100341,A09,Infectious gastroenteritis and colitis
+QEI82Q,EF64ZC,100341,Z51.81,Therapeutic drug monitoring
+2JBJM1,EQXS2E,100342,S62.5,Fracture of metacarpal bone
+8MUB96,EQXS2E,100342,B37.3,Vaginal candidiasis
+WGFJOT,QOY610,100342,Z79.899,Long term drug therapy
+XVIVR7,QOY610,100342,M79.1,Myalgia
+F739U2,AGX8NV,100342,Z87.891,History of nicotine dependence
+LMBYAV,AGX8NV,100342,N30.00,Acute cystitis
+YFJPVR,CNZIPI,100342,S62.5,Fracture of metacarpal bone
+BVIY6S,CWOYR8,100342,R05,Cough
+R5WPZO,CWOYR8,100342,Z13.6,Cardiovascular screening
+06VAN6,XD0CHE,100343,B34.9,"Viral infection, unspecified"
+9TDC23,XD0CHE,100343,B34.9,"Viral infection, unspecified"
+WUDKC6,ZZGGHX,100343,Z12.11,Colon cancer screening
+F918LF,ZZGGHX,100343,R06.02,Shortness of breath
+IZ4KJJ,CTBNB4,100343,Z79.899,Long term drug therapy
+VM379A,9306R3,100343,T81.4,Infection post-procedure
+GUSK34,9306R3,100343,Z71.9,"Counseling, unspecified"
+VAP1NJ,FSNW5M,100344,F32.9,"Major depressive disorder, single episode"
+HFAAMT,FSNW5M,100344,R06.02,Shortness of breath
+Z1OG30,10EUUU,100344,K02.9,Dental caries
+T04U2B,10EUUU,100344,J18.9,"Pneumonia, unspecified"
+TH34HR,ZMJ5WE,100344,H52.4,Presbyopia
+3KVO8R,ICZ5CQ,100344,R07.9,Chest pain
+D2J5XP,RKRYYA,100344,K02.9,Dental caries
+MKGKYZ,S37NO0,100345,H66.9,Otitis media
+2RGVF1,FBNCGH,100346,E03.9,"Hypothyroidism, unspecified"
+C5PAQN,YR7XD0,100347,Z00.00,General exam
+ERRTLD,J0FDIB,100347,K59.00,"Constipation, unspecified"
+MNVIP6,5T67Z1,100348,J44.9,Chronic obstructive pulmonary disease
+JXG0MY,5T67Z1,100348,I25.10,Atherosclerotic heart disease
+2F2869,QG8HA4,100348,Z71.9,"Counseling, unspecified"
+28J177,QG8HA4,100348,Z71.9,"Counseling, unspecified"
+WRP3JY,D6V75K,100349,Z51.81,Therapeutic drug monitoring
+J5SIJH,D6V75K,100349,Z13.6,Cardiovascular screening
+TZLNHH,JK939E,100349,L60.0,Ingrown nail
+5UMHUQ,JK939E,100349,R11.0,Nausea
+JV24YW,UY7MF1,100350,L60.0,Ingrown nail
+2BMZB8,Y4MDQ4,100350,B34.9,"Viral infection, unspecified"
+WSSFKZ,Y4MDQ4,100350,M54.5,Low back pain
+DWB2LM,PY3HTQ,100351,S93.4,Ankle sprain
+2AQFCR,32TN8W,100351,Z13.6,Cardiovascular screening
+GDUWN7,8D85BY,100351,Z13.6,Cardiovascular screening
+AH4GW8,8D85BY,100351,A09,Infectious gastroenteritis and colitis
+22BO5S,YAO7OK,100351,E03.9,"Hypothyroidism, unspecified"
+OG1Z5I,J7LMDA,100351,R10.9,Abdominal pain
+IHVMPL,J7LMDA,100351,B37.3,Vaginal candidiasis
+L0GW8D,X9FOO7,100352,A09,Infectious gastroenteritis and colitis
+WPJWL0,X9FOO7,100352,N30.00,Acute cystitis
+UK72RV,6OQ1WL,100352,M16.9,Osteoarthritis of hip
+4IUF7W,6OQ1WL,100352,H61.2,Impacted cerumen
+9W58VM,0CRSO0,100353,N39.0,Urinary tract infection
+QVXNXR,0CRSO0,100353,E78.5,"Hyperlipidemia, unspecified"
+N1LEO1,7O6NPA,100354,Z12.11,Colon cancer screening
+K87GYY,7O6NPA,100354,R07.9,Chest pain
+8NQJ4P,IBZEWX,100354,J18.9,"Pneumonia, unspecified"
+0NRSRG,IBZEWX,100354,J02.9,Acute pharyngitis
+Z72J3K,ELF7MA,100354,H66.9,Otitis media
+WYT421,ELF7MA,100354,B34.9,"Viral infection, unspecified"
+YN8023,WSLFU0,100354,F41.1,Generalized anxiety disorder
+T08PQE,WSLFU0,100354,F32.9,"Major depressive disorder, single episode"
+HP7A7D,OGU06F,100355,Z87.891,History of nicotine dependence
+D20RY0,OGU06F,100355,F41.1,Generalized anxiety disorder
+CSPH7E,J4VNGF,100355,R51,Headache
+3JRT7F,6MQC1A,100355,B34.9,"Viral infection, unspecified"
+8W7WKJ,6MQC1A,100355,E03.9,"Hypothyroidism, unspecified"
+R8XJED,DZU390,100356,E03.9,"Hypothyroidism, unspecified"
+NL42TG,DZU390,100356,F32.9,"Major depressive disorder, single episode"
+BAYEI9,BMZNVB,100356,G47.0,"Insomnia, unspecified"
+N6OZ3U,BMZNVB,100356,I10,Essential (primary) hypertension
+UEPTLJ,AV84TK,100356,B34.9,"Viral infection, unspecified"
+BDZZFT,UEFM7E,100356,S62.5,Fracture of metacarpal bone
+WDVSYH,ZWYVXK,100356,T81.4,Infection post-procedure
+R23343,XKAN4L,100357,Z13.6,Cardiovascular screening
+B2H9VF,7AX1BM,100357,T81.4,Infection post-procedure
+EFE06C,DVT8YP,100357,G47.0,"Insomnia, unspecified"
+T23P8K,E4OKJ5,100357,K59.00,"Constipation, unspecified"
+LMT9II,6GGZ4P,100357,N30.00,Acute cystitis
+9P8AIC,6GGZ4P,100357,H61.2,Impacted cerumen
+0SKMBN,DGTDUI,100358,K59.00,"Constipation, unspecified"
+VMCLZM,GOQJXB,100358,K02.9,Dental caries
+FDDYRD,GOQJXB,100358,R07.9,Chest pain
+ARIL9F,FI243V,100359,J02.9,Acute pharyngitis
+JVF9G0,DI2XRP,100359,G47.0,"Insomnia, unspecified"
+BU32WS,DI2XRP,100359,Z87.891,History of nicotine dependence
+GQVSXL,C64R2Z,100359,J18.9,"Pneumonia, unspecified"
+SEMU9V,JW943Y,100359,Z71.9,"Counseling, unspecified"
+OYTUHK,0FMOSD,100360,Z79.899,Long term drug therapy
+A755LA,0FMOSD,100360,G47.0,"Insomnia, unspecified"
+G02FXF,JH355G,100361,N30.00,Acute cystitis
+VWE478,JH355G,100361,J06.9,Upper respiratory infection
+NLOO13,N0PHFH,100361,N39.0,Urinary tract infection
+91KXDL,YUXM62,100362,T81.4,Infection post-procedure
+D0HDFV,5F48BW,100362,Z71.9,"Counseling, unspecified"
+8BB25L,S03INF,100362,R05,Cough
+25N3LN,OFFNLN,100362,R10.9,Abdominal pain
+RSESGF,OFFNLN,100362,B34.9,"Viral infection, unspecified"
+NHYDE5,DN7AAI,100363,J01.90,Acute sinusitis
+BVF6SJ,M96XHM,100363,M54.5,Low back pain
+QWOXZ9,VNP5IA,100363,Z00.00,General exam
+A2SOY4,VNP5IA,100363,R51,Headache
+DYX0DK,UVOI67,100363,B34.9,"Viral infection, unspecified"
+FLQDTM,MSO38M,100363,G43.9,"Migraine, unspecified"
+U23O5J,MSO38M,100363,K02.9,Dental caries
+JS5GI1,C1WO9C,100364,H52.4,Presbyopia
+BRZAZN,C1WO9C,100364,R11.0,Nausea
+3H8MFD,U47N9S,100364,Z51.81,Therapeutic drug monitoring
+ZEVC6V,AAHJLL,100364,H52.4,Presbyopia
+DGWVNZ,A9IY31,100364,T81.4,Infection post-procedure
+VJ8NJO,A9IY31,100364,J44.9,Chronic obstructive pulmonary disease
+E6SSKI,I4E3BX,100364,J01.90,Acute sinusitis
+AVIHU8,G1O8W1,100365,H66.9,Otitis media
+LDEL2X,5JO8B6,100365,K02.9,Dental caries
+DDZ2P4,5JO8B6,100365,J44.9,Chronic obstructive pulmonary disease
+O7KKE0,DF3V5J,100366,R06.02,Shortness of breath
+G999XS,DF3V5J,100366,Z51.81,Therapeutic drug monitoring
+L9V5A4,ARYX7H,100366,E78.5,"Hyperlipidemia, unspecified"
+XTSPI3,ARYX7H,100366,Z00.00,General exam
+HTA3AW,TNZGJM,100366,N39.0,Urinary tract infection
+PH3LI6,CG1HR3,100367,F32.9,"Major depressive disorder, single episode"
+RZPTTA,CG1HR3,100367,R07.9,Chest pain
+XRQKM7,ZT8QWR,100367,N30.00,Acute cystitis
+1FL1V8,ZT8QWR,100367,G47.0,"Insomnia, unspecified"
+J3G6Y5,KO1851,100367,B34.9,"Viral infection, unspecified"
+EVK4KI,7WYQXB,100367,E03.9,"Hypothyroidism, unspecified"
+KVFQ0T,16A34W,100368,J18.9,"Pneumonia, unspecified"
+76270X,N62OCY,100368,I10,Essential (primary) hypertension
+WDI4HH,EA2IP2,100368,I10,Essential (primary) hypertension
+JEMRTL,EA2IP2,100368,K21.9,GERD without esophagitis
+DRBDNC,48JZHS,100369,B34.9,"Viral infection, unspecified"
+2LHT2W,48JZHS,100369,L60.0,Ingrown nail
+OUUL0J,951USS,100369,M16.9,Osteoarthritis of hip
+IXCEEI,951USS,100369,H66.9,Otitis media
+KLZKAP,WKZGE7,100369,R10.9,Abdominal pain
+M29O5S,P5UAL5,100369,R10.9,Abdominal pain
+NEGBJV,7O32PB,100369,L03.90,"Cellulitis, unspecified"
+2TS909,7O32PB,100369,Z87.891,History of nicotine dependence
+HU8CX3,1C9WRX,100370,R51,Headache
+92S34O,1C9WRX,100370,J02.9,Acute pharyngitis
+MHW5ML,TKT0NQ,100370,R07.9,Chest pain
+N0E6XN,JFZM4Z,100370,K29.70,"Gastritis, without bleeding"
+RNFB4O,Z0CAP1,100370,Z00.00,General exam
+BYLHHX,Z0CAP1,100370,I10,Essential (primary) hypertension
+3CXUB0,5MSWIU,100371,Z51.81,Therapeutic drug monitoring
+TE0I5O,5MSWIU,100371,Z13.6,Cardiovascular screening
+TEXE2H,1SUNIW,100371,M17.9,Osteoarthritis of knee
+VEUKVM,HHIKPJ,100371,H66.9,Otitis media
+V8LFOP,HHIKPJ,100371,G43.9,"Migraine, unspecified"
+EVROU9,JEN7XN,100372,K29.70,"Gastritis, without bleeding"
+4H6RWZ,JEN7XN,100372,I10,Essential (primary) hypertension
+WJM6O1,P2O472,100373,J18.9,"Pneumonia, unspecified"
+JIEB8D,FWZI6N,100373,L60.0,Ingrown nail
+EZ7HEG,JSL621,100373,K02.9,Dental caries
+2PTFBJ,J0D4PW,100374,J02.9,Acute pharyngitis
+W2HGFA,J0D4PW,100374,Z00.121,Well child exam
+PQBRIU,1Z1RP2,100374,Z51.81,Therapeutic drug monitoring
+7NUE8R,5PZJG0,100375,S93.4,Ankle sprain
+IBJUUB,5PZJG0,100375,M79.1,Myalgia
+ZXU75L,EWRD5N,100375,E78.5,"Hyperlipidemia, unspecified"
+7B9S2W,EWRD5N,100375,E03.9,"Hypothyroidism, unspecified"
+FEJJLH,LDJ7MA,100375,K29.70,"Gastritis, without bleeding"
+T5GUMY,LDJ7MA,100375,T81.4,Infection post-procedure
+ENFPMM,QOZJL5,100376,G43.9,"Migraine, unspecified"
+IZJZEY,NAK24G,100376,T81.4,Infection post-procedure
+TG142G,NAK24G,100376,I10,Essential (primary) hypertension
+W8CR7A,LVXQJN,100376,J01.90,Acute sinusitis
+2NKKZO,J82AP8,100376,R05,Cough
+0WOE1Q,J82AP8,100376,B37.3,Vaginal candidiasis
+TJV8TZ,5GD4OM,100376,H61.2,Impacted cerumen
+4N4PWZ,COM1UX,100377,M16.9,Osteoarthritis of hip
+Z0T0P4,COM1UX,100377,K02.9,Dental caries
+QBDHBW,RW1545,100377,N39.0,Urinary tract infection
+9TKEEM,RW1545,100377,G43.9,"Migraine, unspecified"
+R9Q48D,0KQKVP,100377,S62.5,Fracture of metacarpal bone
+24HBTI,55XNLZ,100377,R11.0,Nausea
+M22222,55XNLZ,100377,R05,Cough
+9RE8RY,T710ZF,100377,G47.0,"Insomnia, unspecified"
+EVM293,T710ZF,100377,J06.9,Upper respiratory infection
+38XCIB,CCKTTX,100378,Z87.891,History of nicotine dependence
+NZQ5RD,W2QGVJ,100378,R05,Cough
+84S5TD,W2QGVJ,100378,R10.9,Abdominal pain
+GKQSSV,LTKYP1,100379,J02.9,Acute pharyngitis
+ABTLD3,LTKYP1,100379,K29.70,"Gastritis, without bleeding"
+U3ESHW,YDQXV2,100379,R51,Headache
+Q5F3YS,YDQXV2,100379,M54.5,Low back pain
+AT7R1Y,1ZCNAK,100380,F32.9,"Major depressive disorder, single episode"
+XZOGDY,8DPMBC,100381,T81.4,Infection post-procedure
+C8QS5I,8DPMBC,100381,Z00.00,General exam
+XES3RM,P6EA1F,100381,M54.5,Low back pain
+YYH12N,P6EA1F,100381,E03.9,"Hypothyroidism, unspecified"
+F0M50D,Y3C49R,100382,S62.5,Fracture of metacarpal bone
+DJLXHU,ZZ18MH,100382,Z00.00,General exam
+OXRXQA,N6XU9S,100383,H52.4,Presbyopia
+BM2WYL,MVF93W,100383,Z23,Encounter for immunization
+MZ68U4,YCVKIP,100383,B37.3,Vaginal candidiasis
+GJJUMK,YCVKIP,100383,Z23,Encounter for immunization
+CSSMM8,QCXV96,100384,Z71.9,"Counseling, unspecified"
+WS91IH,NPUM2K,100384,M79.1,Myalgia
+NSF1ET,Y9CO9S,100385,M79.1,Myalgia
+PPNC4D,Y9CO9S,100385,M17.9,Osteoarthritis of knee
+5XN51N,6A8NDB,100385,H61.2,Impacted cerumen
+OI0O6J,YTGM0E,100385,G43.9,"Migraine, unspecified"
+VP6PJZ,J1A2B3,100385,Z51.81,Therapeutic drug monitoring
+NHBENO,J1A2B3,100385,Z00.00,General exam
+X2B0NP,3U1Q5G,100385,B34.9,"Viral infection, unspecified"
+COWQUH,X90B2B,100386,Z51.81,Therapeutic drug monitoring
+3R4Y3Y,GD596O,100386,M54.5,Low back pain
+LPVPCQ,GD596O,100386,R05,Cough
+PGAE76,VIF43N,100386,R07.9,Chest pain
+ZS6MJ1,VIF43N,100386,R51,Headache
+0JJAOV,N82ANP,100387,L03.90,"Cellulitis, unspecified"
+G2CPOV,N82ANP,100387,H52.4,Presbyopia
+KGX3QM,MMFPVQ,100387,J44.9,Chronic obstructive pulmonary disease
+875CRF,0RSP65,100387,N39.0,Urinary tract infection
+3TYB1H,0RSP65,100387,K59.00,"Constipation, unspecified"
+O1N9V9,QYPIXB,100387,F32.9,"Major depressive disorder, single episode"
+BEORK1,6OEZ5S,100388,G43.9,"Migraine, unspecified"
+RRP3DJ,6OEZ5S,100388,Z00.121,Well child exam
+ULLUA0,Q9M5MS,100388,H61.2,Impacted cerumen
+HZQ6V0,U8UGGI,100388,S62.5,Fracture of metacarpal bone
+6OJYNA,UPJ6X8,100388,I25.10,Atherosclerotic heart disease
+Q0QQM5,UPJ6X8,100388,J06.9,Upper respiratory infection
+EU9O6S,9PG756,100389,M16.9,Osteoarthritis of hip
+SDGIWX,9PG756,100389,B37.3,Vaginal candidiasis
+IDD213,KBV1I7,100389,E03.9,"Hypothyroidism, unspecified"
+DRN76N,KBV1I7,100389,J06.9,Upper respiratory infection
+HPWJ7R,KFHBZL,100389,K59.00,"Constipation, unspecified"
+V9E2IZ,WF1LLA,100389,Z87.891,History of nicotine dependence
+DJ42QD,WF1LLA,100389,B34.9,"Viral infection, unspecified"
+AQLQTJ,9RC5KJ,100389,Z79.899,Long term drug therapy
+8KYLVW,9RC5KJ,100389,J18.9,"Pneumonia, unspecified"
+DK7MRU,EY62BV,100390,Z71.9,"Counseling, unspecified"
+NUD00R,Z0JONC,100390,B37.3,Vaginal candidiasis
+H1O1A3,Z0JONC,100390,N30.00,Acute cystitis
+SBJRGL,ET7BCA,100391,J01.90,Acute sinusitis
+J7COCI,ET7BCA,100391,F32.9,"Major depressive disorder, single episode"
+G39G57,OGLGGW,100391,R07.9,Chest pain
+12KXB9,OGLGGW,100391,Z51.81,Therapeutic drug monitoring
+NDDT7J,ZCS2RD,100392,R07.9,Chest pain
+YCT9I1,M41PWH,100392,T81.4,Infection post-procedure
+5DLT7U,O4KON8,100392,A09,Infectious gastroenteritis and colitis
+BZCC3U,O4KON8,100392,R11.0,Nausea
+MKLOC6,L9NY3F,100393,Z12.11,Colon cancer screening
+E27FW6,SB2JSI,100393,S93.4,Ankle sprain
+W5FUMY,SB2JSI,100393,Z79.899,Long term drug therapy
+H9FSHD,NFUPQQ,100393,K59.00,"Constipation, unspecified"
+ARRS2G,NFUPQQ,100393,T81.4,Infection post-procedure
+UTIR1N,R82913,100394,K59.00,"Constipation, unspecified"
+1LY4TB,R82913,100394,B37.3,Vaginal candidiasis
+DB3VFP,YBWQTC,100395,F41.1,Generalized anxiety disorder
+XL67J5,YBWQTC,100395,J01.90,Acute sinusitis
+KK7WGU,XT7J4D,100396,N30.00,Acute cystitis
+E4645J,J9OX7T,100396,Z00.121,Well child exam
+4FWLOF,J9OX7T,100396,M54.5,Low back pain
+NT8WF2,XCP84O,100396,G47.0,"Insomnia, unspecified"
+N5OHEV,XCP84O,100396,K59.00,"Constipation, unspecified"
+DMWXQC,5S2MYE,100396,E66.9,"Obesity, unspecified"
+U4PW4Z,0C7WMX,100396,J44.9,Chronic obstructive pulmonary disease
+1B02JT,0C7WMX,100396,M54.5,Low back pain
+W0JXT4,LPEUE4,100397,K29.70,"Gastritis, without bleeding"
+CWC6HE,LPEUE4,100397,J06.9,Upper respiratory infection
+J1E31K,O7FSTG,100398,J02.9,Acute pharyngitis
+B2KPIG,O7FSTG,100398,G47.0,"Insomnia, unspecified"
+MNAPQG,AC9XUH,100398,R07.9,Chest pain
+AC8T2H,UZJYF6,100398,R07.9,Chest pain
+QODWT6,UZJYF6,100398,M79.1,Myalgia
+Z5OBQ9,UZYPTZ,100398,M17.9,Osteoarthritis of knee
+JZS8IP,2UJNT9,100399,E03.9,"Hypothyroidism, unspecified"
+QDCENO,QNYOIJ,100399,F32.9,"Major depressive disorder, single episode"
+B2SX19,QNYOIJ,100399,J01.90,Acute sinusitis
+BCWVCN,TXS252,100399,R05,Cough
+J699TQ,JPZ66I,100399,K02.9,Dental caries
+1EF1QO,JPZ66I,100399,T81.4,Infection post-procedure
+63F22E,9TAGOA,100399,M54.5,Low back pain
+RP5B9N,9TAGOA,100399,B34.9,"Viral infection, unspecified"
+JEUHY6,2MENMM,100400,J18.9,"Pneumonia, unspecified"
+AMPRFE,2MENMM,100400,J18.9,"Pneumonia, unspecified"
+R5HSJM,WE6UHM,100401,J01.90,Acute sinusitis
+3ZVV8V,DSC22S,100402,M54.5,Low back pain
+OPEU3U,DSC22S,100402,R51,Headache
+WHB96V,CAUE4K,100402,M79.1,Myalgia
+GD10JF,CAUE4K,100402,E03.9,"Hypothyroidism, unspecified"
+XB57I2,LS6ORU,100402,R05,Cough
+IPTYI4,LS6ORU,100402,R51,Headache
+FR0O0O,10NBXV,100403,R11.0,Nausea
+LPEDVU,HXWYVA,100403,I25.10,Atherosclerotic heart disease
+LRQ9YA,0LK3G6,100404,Z23,Encounter for immunization
+8BMAL5,0LK3G6,100404,A09,Infectious gastroenteritis and colitis
+ZQ1OG8,BEEDXD,100405,Z51.81,Therapeutic drug monitoring
+YIKB6Q,A8CF95,100405,M79.1,Myalgia
+513NKO,VZ2CQZ,100405,R11.0,Nausea
+D4VDTP,PXONBF,100406,N39.0,Urinary tract infection
+I7KHI4,VUCAVV,100406,R51,Headache
+ZIX0HR,VUCAVV,100406,J01.90,Acute sinusitis
+W9FCK4,V9SZII,100407,E03.9,"Hypothyroidism, unspecified"
+N7IXFH,BU80FM,100407,K29.70,"Gastritis, without bleeding"
+T95MPQ,BU80FM,100407,J01.90,Acute sinusitis
+32XZRN,BPQJPY,100407,Z00.121,Well child exam
+194109,URIWMX,100407,J18.9,"Pneumonia, unspecified"
+AUDXUB,URIWMX,100407,M16.9,Osteoarthritis of hip
+ZLXD3D,8R1OF3,100408,J02.9,Acute pharyngitis
+7DZYZM,D717WA,100409,J06.9,Upper respiratory infection
+Y0L03E,D717WA,100409,F32.9,"Major depressive disorder, single episode"
+3MUOO7,0TENQC,100409,R06.02,Shortness of breath
+HCRCSQ,0TENQC,100409,M16.9,Osteoarthritis of hip
+AO2VA5,RA6ARQ,100409,Z79.899,Long term drug therapy
+M1S2LX,RA6ARQ,100409,S93.4,Ankle sprain
+Z2UMPP,KTL4KB,100409,Z00.00,General exam
+M17BFF,KTL4KB,100409,L03.90,"Cellulitis, unspecified"
+EA1VJ4,8SAXWS,100409,H66.9,Otitis media
+59K3XX,SY96GI,100410,J01.90,Acute sinusitis
+XP36LW,SY96GI,100410,E78.5,"Hyperlipidemia, unspecified"
+4Q9ZQO,XL8R56,100410,J18.9,"Pneumonia, unspecified"
+VC9EC8,HKBG4U,100411,K21.9,GERD without esophagitis
+J4B1F5,9JRYP6,100411,J06.9,Upper respiratory infection
+4JYCT3,9JRYP6,100411,B34.9,"Viral infection, unspecified"
+WX405R,S907B1,100412,H66.9,Otitis media
+0SV601,S907B1,100412,R10.9,Abdominal pain
+JDX1OE,DWJ77V,100412,H66.9,Otitis media
+OBIT3X,DWJ77V,100412,M16.9,Osteoarthritis of hip
+PRNNE6,Q3LM7L,100413,H61.2,Impacted cerumen
+PC9AH8,K40OB0,100414,E78.5,"Hyperlipidemia, unspecified"
+BSH9IZ,EXFCN7,100414,H66.9,Otitis media
+P9ZNSJ,EXFCN7,100414,R05,Cough
+7C1LJT,MD5W3N,100414,R10.9,Abdominal pain
+ZCOUMM,VU3X3S,100414,J02.9,Acute pharyngitis
+YQ0GMK,VU3X3S,100414,Z51.81,Therapeutic drug monitoring
+F1JGQG,MY5IOK,100414,R06.02,Shortness of breath
+9IL4PO,TQL7MM,100415,Z13.6,Cardiovascular screening
+6OJW9M,3XXMXU,100415,F41.1,Generalized anxiety disorder
+UT7NSL,F2QX0A,100415,J06.9,Upper respiratory infection
+6O2Y1G,F2QX0A,100415,E66.9,"Obesity, unspecified"
+HQ47OR,7P165J,100415,J18.9,"Pneumonia, unspecified"
+35NHW2,2ES46S,100416,R10.9,Abdominal pain
+Y627LQ,QATK9G,100416,K02.9,Dental caries
+4TQQXH,2IOHQK,100416,J06.9,Upper respiratory infection
+YLOC0C,9CNN6I,100417,S93.4,Ankle sprain
+L2TBT8,6BQW6F,100418,R10.9,Abdominal pain
+5MJP5G,0M7O57,100419,M17.9,Osteoarthritis of knee
+BBSDTU,0M7O57,100419,S93.4,Ankle sprain
+Z13ZO7,0M0806,100419,N39.0,Urinary tract infection
+XVYF1M,8HAXY5,100419,J06.9,Upper respiratory infection
+XZ2M59,QPJPF2,100419,K21.9,GERD without esophagitis
+61PC4Q,NEZDM0,100419,R05,Cough
+7PVNOP,DAQ8MD,100420,Z23,Encounter for immunization
+OGY9FE,DAQ8MD,100420,K21.9,GERD without esophagitis
+1P3ZVZ,TC43CY,100420,T81.4,Infection post-procedure
+XESSGH,TC43CY,100420,K21.9,GERD without esophagitis
+6OC3LI,FF8H15,100420,S93.4,Ankle sprain
+N2W0UG,2LEPR1,100420,S62.5,Fracture of metacarpal bone
+CU0HPB,2LEPR1,100420,J18.9,"Pneumonia, unspecified"
+NZ9YTX,1DOT4M,100420,S62.5,Fracture of metacarpal bone
+IT52PK,JLY45Z,100421,H61.2,Impacted cerumen
+2EVQC8,JLY45Z,100421,E03.9,"Hypothyroidism, unspecified"
+HLOAAS,RFEC21,100421,R11.0,Nausea
+KESK5P,TL4J6Z,100422,M17.9,Osteoarthritis of knee
+4ZZWPI,H7UUJN,100422,N39.0,Urinary tract infection
+FQ7TJN,MEI76Y,100422,K02.9,Dental caries
+JYJDTY,I19GA9,100422,Z12.11,Colon cancer screening
+GC3BW7,DV7CBG,100423,R07.9,Chest pain
+VVQUFU,0EA40G,100424,Z13.6,Cardiovascular screening
+98TWWE,KS3L7X,100424,Z87.891,History of nicotine dependence
+PZ5DGZ,KS3L7X,100424,L03.90,"Cellulitis, unspecified"
+NA5F5R,SD24Y2,100425,K29.70,"Gastritis, without bleeding"
+37NPGG,P6F10B,100426,H61.2,Impacted cerumen
+U42WIA,P6F10B,100426,G43.9,"Migraine, unspecified"
+HV217P,DD0I9A,100426,Z71.9,"Counseling, unspecified"
+K3KYF5,DD0I9A,100426,J01.90,Acute sinusitis
+ESU8L2,Q7N3F6,100426,G43.9,"Migraine, unspecified"
+AGZWR3,YKQ6NM,100427,Z00.00,General exam
+6A2ZRH,YKQ6NM,100427,G47.0,"Insomnia, unspecified"
+QLYAL7,PDEUCU,100428,R51,Headache
+2GQ6LA,PDEUCU,100428,R05,Cough
+MQEX8P,JQKHG3,100428,E03.9,"Hypothyroidism, unspecified"
+BFN4Z1,JQKHG3,100428,G43.9,"Migraine, unspecified"
+CD10NE,JJL47Z,100428,K29.70,"Gastritis, without bleeding"
+E1O2QL,I6G935,100428,S62.5,Fracture of metacarpal bone
+TTQR7R,HKVIPM,100429,Z79.899,Long term drug therapy
+I5H73V,TA728X,100429,N30.00,Acute cystitis
+03QVKN,9JAOE6,100430,G47.0,"Insomnia, unspecified"
+TW3RVN,7V6PR1,100431,M79.1,Myalgia
+ZFVSDT,2ZGOJB,100431,H52.4,Presbyopia
+U3E5BZ,2ZGOJB,100431,L60.0,Ingrown nail
+L863DN,MRTODN,100432,H61.2,Impacted cerumen
+EKE1O6,9I8MZD,100432,K59.00,"Constipation, unspecified"
+BLOKMK,IGLS9C,100432,R05,Cough
+75URL9,IGLS9C,100432,B37.3,Vaginal candidiasis
+0O18LD,24FIYW,100432,Z51.81,Therapeutic drug monitoring
+0DZYZM,24FIYW,100432,Z12.11,Colon cancer screening
+0Z5FNL,6CZOPD,100433,B37.3,Vaginal candidiasis
+AHLPS8,D18K9L,100433,Z87.891,History of nicotine dependence
+9XNSQN,TD2DIK,100433,Z87.891,History of nicotine dependence
+GG7X5Q,BRO3W3,100433,M79.1,Myalgia
+O2WURY,J8UPW4,100434,E66.9,"Obesity, unspecified"
+K9VGIJ,J8UPW4,100434,I10,Essential (primary) hypertension
+0Y9BKT,AM212F,100434,K59.00,"Constipation, unspecified"
+JRJLTL,XQO04J,100434,E66.9,"Obesity, unspecified"
+0DG1HG,K51UN3,100434,J30.9,Allergic rhinitis
+3J4THM,JHHBLG,100435,M79.1,Myalgia
+0AL7AC,JHHBLG,100435,E66.9,"Obesity, unspecified"
+0LPF54,06EGR5,100435,Z13.6,Cardiovascular screening
+UY66PZ,2V3QNQ,100435,J01.90,Acute sinusitis
+HCE2KU,2V3QNQ,100435,R07.9,Chest pain
+J2HBTT,WI66QR,100435,B37.3,Vaginal candidiasis
+Z1VGVV,RBFRIV,100436,Z51.81,Therapeutic drug monitoring
+ND22JB,2RMZFX,100437,T81.4,Infection post-procedure
+MI7416,2RMZFX,100437,L03.90,"Cellulitis, unspecified"
+Z03WVM,4ZTX2N,100437,H61.2,Impacted cerumen
+R2XUHN,4ZTX2N,100437,Z79.899,Long term drug therapy
+IXTX30,CKYGRO,100438,Z00.00,General exam
+MS39HP,6JZ3GM,100438,A09,Infectious gastroenteritis and colitis
+HC1EL9,6JZ3GM,100438,R07.9,Chest pain
+AM19K7,OFDN2N,100438,R07.9,Chest pain
+I6JKXQ,OFDN2N,100438,Z12.11,Colon cancer screening
+QVXPPI,2Y6O9N,100438,H52.4,Presbyopia
+K77Q5N,26KI6J,100438,Z71.9,"Counseling, unspecified"
+CGPOK3,26KI6J,100438,J01.90,Acute sinusitis
+S7HRT0,AMTZKZ,100439,S62.5,Fracture of metacarpal bone
+0R43N3,AMTZKZ,100439,E66.9,"Obesity, unspecified"
+UG3DN5,U710FW,100439,F41.1,Generalized anxiety disorder
+736S1I,U710FW,100439,H52.4,Presbyopia
+S30AEP,QSFYVK,100439,B37.3,Vaginal candidiasis
+M273IR,6Z67UC,100439,T81.4,Infection post-procedure
+0JBEY1,IZAKBF,100439,Z00.00,General exam
+C5S9YP,6TTUJ9,100440,I10,Essential (primary) hypertension
+NGDXLE,PFYMA4,100440,H52.4,Presbyopia
+6GMYN1,PFYMA4,100440,E03.9,"Hypothyroidism, unspecified"
+C72CP3,TTJ2MQ,100441,S62.5,Fracture of metacarpal bone
+BAC262,TTJ2MQ,100441,E78.5,"Hyperlipidemia, unspecified"
+557TNO,JAQIK0,100442,Z12.11,Colon cancer screening
+6IKPRB,2YZM3D,100442,R07.9,Chest pain
+37VVKV,8M0XWY,100443,E78.5,"Hyperlipidemia, unspecified"
+WPCLKA,8M0XWY,100443,R10.9,Abdominal pain
+AUH0VF,7L0UKH,100443,L03.90,"Cellulitis, unspecified"
+MKHCI7,7L0UKH,100443,J02.9,Acute pharyngitis
+9HCU59,2R7ZO6,100443,M54.5,Low back pain
+L9FYGR,0X609A,100443,M79.1,Myalgia
+B7LR88,KKZYKJ,100443,Z51.81,Therapeutic drug monitoring
+X3BE4R,V9E6G9,100444,N30.00,Acute cystitis
+QHEESB,V9E6G9,100444,B37.3,Vaginal candidiasis
+4IZW8L,VKVSSY,100444,Z13.6,Cardiovascular screening
+A573DA,VKVSSY,100444,N30.00,Acute cystitis
+G6OFUV,QKSOBW,100444,J06.9,Upper respiratory infection
+D620VG,QKSOBW,100444,J30.9,Allergic rhinitis
+1WUKI0,QYBTM9,100445,H66.9,Otitis media
+249W83,T5ED2M,100445,J02.9,Acute pharyngitis
+YDFP07,TMPCL9,100445,F32.9,"Major depressive disorder, single episode"
+DNXXB8,TMPCL9,100445,Z51.81,Therapeutic drug monitoring
+Y2ZXA3,7MIADP,100445,Z71.9,"Counseling, unspecified"
+N2B25R,7MIADP,100445,Z12.11,Colon cancer screening
+L6XNI2,EZBFXK,100446,J06.9,Upper respiratory infection
+CF0ENN,KGMUAI,100447,R06.02,Shortness of breath
+8SXHB7,YMOTLO,100447,J01.90,Acute sinusitis
+KBE1UY,YMOTLO,100447,J44.9,Chronic obstructive pulmonary disease
+KPN2B0,K7BFL3,100448,Z12.11,Colon cancer screening
+TKQVUX,K7BFL3,100448,Z79.899,Long term drug therapy
+R1YNZT,65ZF6C,100449,Z00.121,Well child exam
+MW3C93,65ZF6C,100449,E78.5,"Hyperlipidemia, unspecified"
+LPJU3F,Q0KSIM,100449,B37.3,Vaginal candidiasis
+XPJR5D,A618QK,100449,A09,Infectious gastroenteritis and colitis
+1EH4BO,A618QK,100449,H61.2,Impacted cerumen
+USRVU2,3UJDRL,100450,M17.9,Osteoarthritis of knee
+5TA8JI,BX8ZOF,100450,K29.70,"Gastritis, without bleeding"
+6VGBW0,BX8ZOF,100450,M16.9,Osteoarthritis of hip
+1G1DZB,533VH2,100450,H66.9,Otitis media
+R6IUC9,533VH2,100450,E78.5,"Hyperlipidemia, unspecified"
+8UIL8G,2S2O4O,100451,Z87.891,History of nicotine dependence
+IKMAGL,2S2O4O,100451,J02.9,Acute pharyngitis
+1N3ALL,WSNKRA,100452,Z13.6,Cardiovascular screening
+POOI7U,WSNKRA,100452,A09,Infectious gastroenteritis and colitis
+4BYZUF,OISW8P,100452,R06.02,Shortness of breath
+GB8YRC,LDK14W,100452,E66.9,"Obesity, unspecified"
+TDU3UQ,1VWRJ6,100452,Z71.9,"Counseling, unspecified"
+H5PJK2,1VWRJ6,100452,H52.4,Presbyopia
+EJZCRM,Q5B6G3,100453,K29.70,"Gastritis, without bleeding"
+CZ3DT3,Q5B6G3,100453,Z23,Encounter for immunization
+AFUCUO,8YWOW9,100453,T81.4,Infection post-procedure
+7CDGF6,XMJ2B0,100453,Z23,Encounter for immunization
+ZSNK2Z,XMJ2B0,100453,I25.10,Atherosclerotic heart disease
+4D2RGL,QI728U,100453,K21.9,GERD without esophagitis
+NKGDQ2,HVZTN6,100453,I10,Essential (primary) hypertension
+5O2LUU,HLKRNI,100454,G43.9,"Migraine, unspecified"
+EV7ETB,HLKRNI,100454,E78.5,"Hyperlipidemia, unspecified"
+XHSTC5,7AQH0X,100454,H61.2,Impacted cerumen
+ZJA42F,7AQH0X,100454,Z00.00,General exam
+2AQFSC,06SXA5,100454,B37.3,Vaginal candidiasis
+ELGWY9,CPFDJG,100454,H61.2,Impacted cerumen
+GQLBG1,CPFDJG,100454,Z13.6,Cardiovascular screening
+1EGDUE,B9KO9U,100454,N39.0,Urinary tract infection
+FFLEKD,B9KO9U,100454,I10,Essential (primary) hypertension
+FOM43C,ZERT3P,100455,Z12.11,Colon cancer screening
+4BFL9C,C8NL15,100456,R51,Headache
+6GRGVX,C8NL15,100456,H61.2,Impacted cerumen
+XQGQX7,GOB5Y4,100456,J44.9,Chronic obstructive pulmonary disease
+C8I0C1,GOB5Y4,100456,N30.00,Acute cystitis
+TITHO2,F4KYXQ,100456,E03.9,"Hypothyroidism, unspecified"
+TDO0NC,F4KYXQ,100456,R05,Cough
+151WT2,4W5YPJ,100456,M79.1,Myalgia
+8Z9A66,9MX5N6,100456,F41.1,Generalized anxiety disorder
+BEEOIK,364K7J,100457,N39.0,Urinary tract infection
+409P5S,36HOQI,100458,S93.4,Ankle sprain
+32SRQC,36HOQI,100458,J06.9,Upper respiratory infection
+SUK9R4,473EWV,100459,R51,Headache
+REXXQQ,YFLWI1,100459,S93.4,Ankle sprain
+X0CBF5,E7PLJH,100460,L60.0,Ingrown nail
+CFTFGM,E7PLJH,100460,Z00.121,Well child exam
+VTZ9KI,Q1LPYP,100460,E78.5,"Hyperlipidemia, unspecified"
+C8CA4N,Q1LPYP,100460,R11.0,Nausea
+IWKP5H,9CZJYD,100460,F41.1,Generalized anxiety disorder
+PWIQEX,9CZJYD,100460,B37.3,Vaginal candidiasis
+7NYSCY,910KZW,100461,M16.9,Osteoarthritis of hip
+7B9ZNW,YDJ44Y,100461,M16.9,Osteoarthritis of hip
+ZS0IYX,FN26KX,100461,A09,Infectious gastroenteritis and colitis
+2CUK97,HHS6UX,100461,J18.9,"Pneumonia, unspecified"
+RN86ZN,HHS6UX,100461,Z79.899,Long term drug therapy
+1J21FU,MVS4DI,100462,J30.9,Allergic rhinitis
+IPPUG7,XVA1L7,100462,J44.9,Chronic obstructive pulmonary disease
+W6JMIK,J1L85S,100462,Z00.121,Well child exam
+S83T76,INYIWJ,100462,K21.9,GERD without esophagitis
+OAJ8R9,9DLP3A,100463,J02.9,Acute pharyngitis
+5DXRIG,9DLP3A,100463,J06.9,Upper respiratory infection
+LA4J9H,DAC3J5,100463,R11.0,Nausea
+GW6PL6,DAC3J5,100463,Z00.00,General exam
+G7SJ47,BD5A5W,100464,Z79.899,Long term drug therapy
+KOLL9M,BD5A5W,100464,R10.9,Abdominal pain
+S9ZGJX,O5Y97C,100464,E78.5,"Hyperlipidemia, unspecified"
+M309UX,O5Y97C,100464,F41.1,Generalized anxiety disorder
+RARVPH,TG4QJJ,100464,Z00.00,General exam
+3H15K7,TG4QJJ,100464,J02.9,Acute pharyngitis
+K3PRWK,ODWLH0,100465,Z23,Encounter for immunization
+EFDQTQ,MNPMCT,100465,R05,Cough
+CUM3V0,MNPMCT,100465,G43.9,"Migraine, unspecified"
+3J2IEG,6OCTVD,100465,Z00.00,General exam
+WZ04Z5,6OCTVD,100465,R07.9,Chest pain
+8JV95D,1D3648,100465,R11.0,Nausea
+CC1VOK,1D3648,100465,J18.9,"Pneumonia, unspecified"
+MKF69B,2DSWBM,100465,R05,Cough
+3SO8OW,BW663W,100466,T81.4,Infection post-procedure
+K8RRNL,HTEP27,100466,K02.9,Dental caries
+QDTC0G,H9CNWY,100466,Z13.6,Cardiovascular screening
+AXKYZF,W9JCM0,100466,Z23,Encounter for immunization
+X7IO2D,RE87N7,100467,B34.9,"Viral infection, unspecified"
+9LMX4W,P52CMI,100467,F32.9,"Major depressive disorder, single episode"
+T8ULN8,P52CMI,100467,H66.9,Otitis media
+HWLU0V,X8MMHX,100467,R51,Headache
+36B9O3,HO57GU,100468,J44.9,Chronic obstructive pulmonary disease
+148FO4,HO57GU,100468,E03.9,"Hypothyroidism, unspecified"
+DNEI42,6H3LKL,100468,R10.9,Abdominal pain
+9Q7NA2,MKIBW4,100469,F41.1,Generalized anxiety disorder
+YTKYNR,MKIBW4,100469,L60.0,Ingrown nail
+8TCKY8,RXIQSF,100469,S93.4,Ankle sprain
+EMTUV4,RXIQSF,100469,M17.9,Osteoarthritis of knee
+6FL8SD,1MDWNM,100470,Z00.121,Well child exam
+K1QFKA,F7NOAS,100470,I10,Essential (primary) hypertension
+746UTD,C9W05G,100471,M54.5,Low back pain
+GE1K8O,WQQ0SW,100471,R07.9,Chest pain
+WZPID9,JUODU7,100471,R06.02,Shortness of breath
+2DLYI3,3OURJL,100472,J01.90,Acute sinusitis
+TDL633,3HNPSK,100472,J30.9,Allergic rhinitis
+E4EF9N,3HNPSK,100472,E66.9,"Obesity, unspecified"
+OJ66NJ,7ZNM57,100472,R51,Headache
+4751H6,JV4F2O,100472,F41.1,Generalized anxiety disorder
+NUO2G0,K83CZK,100472,H61.2,Impacted cerumen
+60Z23W,XQHDZD,100473,M79.1,Myalgia
+3AYDRS,126IB5,100473,Z51.81,Therapeutic drug monitoring
+C6VJ78,126IB5,100473,M54.5,Low back pain
+WZGZ4N,25ASW2,100473,R06.02,Shortness of breath
+OZCCG2,YYNS8G,100473,E78.5,"Hyperlipidemia, unspecified"
+KICIC9,06NAG0,100473,L03.90,"Cellulitis, unspecified"
+JAO7F9,06NAG0,100473,Z87.891,History of nicotine dependence
+MH2MNU,9R2R9Y,100474,K21.9,GERD without esophagitis
+7945QB,XD33EO,100474,H61.2,Impacted cerumen
+ZQL4JO,4T3A8Q,100474,M17.9,Osteoarthritis of knee
+N6YWCT,4T3A8Q,100474,J30.9,Allergic rhinitis
+A2HQ5V,AFL3V6,100474,J18.9,"Pneumonia, unspecified"
+4EVU8A,750MEK,100474,E78.5,"Hyperlipidemia, unspecified"
+Y49G7E,ZCDMGU,100475,J06.9,Upper respiratory infection
+128R7V,ZCDMGU,100475,Z23,Encounter for immunization
+91SEHM,ELNQ3G,100475,R07.9,Chest pain
+EC3YOA,74VWHC,100475,H61.2,Impacted cerumen
+LGHVTY,74VWHC,100475,K29.70,"Gastritis, without bleeding"
+0MI6RZ,UM766R,100476,R10.9,Abdominal pain
+X1ZALC,WK83O4,100476,J02.9,Acute pharyngitis
+YJEFPP,FA2FIM,100476,J18.9,"Pneumonia, unspecified"
+9YQ6S1,FA2FIM,100476,J30.9,Allergic rhinitis
+VFJQAE,2EZKU8,100477,Z00.00,General exam
+GEDF5D,2EZKU8,100477,I25.10,Atherosclerotic heart disease
+IAE8EP,YHKVZD,100478,H52.4,Presbyopia
+3CNKXE,YHKVZD,100478,F32.9,"Major depressive disorder, single episode"
+8B8QTA,HZODM5,100478,Z00.121,Well child exam
+7UE4PZ,UNVYZ2,100479,Z13.6,Cardiovascular screening
+G5O8V8,UNVYZ2,100479,H66.9,Otitis media
+NK4Q8E,CX1P1E,100480,S93.4,Ankle sprain
+LYH9N4,M9VP53,100480,Z00.00,General exam
+KE2D9G,4EUW5L,100480,J06.9,Upper respiratory infection
+TA367I,4EUW5L,100480,S62.5,Fracture of metacarpal bone
+VHD0WQ,Q7GQ96,100480,B34.9,"Viral infection, unspecified"
+LX5H9R,Q7GQ96,100480,H52.4,Presbyopia
+CSEJKE,E224AS,100480,R06.02,Shortness of breath
+2VI4TG,03B4V0,100481,J01.90,Acute sinusitis
+SUK109,FFHKIH,100482,R07.9,Chest pain
+8ZM5EV,Z94NQE,100482,R05,Cough
+HL159F,Z94NQE,100482,Z00.121,Well child exam
+J8BW37,J46RUU,100482,R10.9,Abdominal pain
+7BAFUK,TM1OWM,100483,R11.0,Nausea
+6VFCR5,TM1OWM,100483,H61.2,Impacted cerumen
+9ZRCVA,K1LLYW,100483,K21.9,GERD without esophagitis
+TCVFAZ,K1LLYW,100483,Z13.6,Cardiovascular screening
+C8F3VV,N9R4PM,100483,Z51.81,Therapeutic drug monitoring
+COYONY,FJC93E,100484,K59.00,"Constipation, unspecified"
+737JY2,JYW33Y,100484,L03.90,"Cellulitis, unspecified"
+KAJQUD,13V0UO,100484,R11.0,Nausea
+4KFBGH,C0K96S,100485,R11.0,Nausea
+INBUTB,BIOORF,100485,S62.5,Fracture of metacarpal bone
+OG8R7O,YO1EDS,100486,M16.9,Osteoarthritis of hip
+MY81GW,EMLAIS,100486,Z51.81,Therapeutic drug monitoring
+SXMAYK,EMLAIS,100486,N39.0,Urinary tract infection
+ACF9EW,N098JC,100486,Z00.121,Well child exam
+66M4S7,VWL0GK,100486,H52.4,Presbyopia
+3IWR1T,VWL0GK,100486,J02.9,Acute pharyngitis
+QITWCY,A5ENCP,100487,Z87.891,History of nicotine dependence
+48LRSY,TLFXHY,100487,M16.9,Osteoarthritis of hip
+YSFD4D,LETAEF,100487,Z23,Encounter for immunization
+XXN203,LETAEF,100487,A09,Infectious gastroenteritis and colitis
+A5RWKI,TAIIRH,100488,H66.9,Otitis media
+QMQJ4E,TAIIRH,100488,G47.0,"Insomnia, unspecified"
+2L1M1Y,M1O2N3,100488,R11.0,Nausea
+RO1AML,M1O2N3,100488,A09,Infectious gastroenteritis and colitis
+PF7JON,SFJCAE,100488,R51,Headache
+7NP17M,PSJD5D,100488,B34.9,"Viral infection, unspecified"
+8JAGT5,PSJD5D,100488,Z00.00,General exam
+C1S545,EFK0WE,100489,K59.00,"Constipation, unspecified"
+A8NVD7,EFK0WE,100489,S62.5,Fracture of metacarpal bone
+5EEO7K,DBKUVS,100489,G47.0,"Insomnia, unspecified"
+NBSS66,DBKUVS,100489,E66.9,"Obesity, unspecified"
+ASKKQS,J5468Y,100489,R07.9,Chest pain
+IGIQC8,4Y0OHQ,100490,F32.9,"Major depressive disorder, single episode"
+P60YMG,9UFGKB,100490,M79.1,Myalgia
+IEFDR8,6KFVCP,100491,R51,Headache
+2WFC5K,6KFVCP,100491,F32.9,"Major depressive disorder, single episode"
+OV050R,9DODAK,100492,H66.9,Otitis media
+NV3V0R,B1HJKB,100492,Z00.121,Well child exam
+OLIH72,B1HJKB,100492,H66.9,Otitis media
+ZLNU94,S6JPUE,100492,H66.9,Otitis media
+WC46BS,S6JPUE,100492,G47.0,"Insomnia, unspecified"
+CM7DDT,X75MKR,100492,Z00.00,General exam
+IQTW1N,X75MKR,100492,R51,Headache
+AJKHSA,45HSAM,100493,R06.02,Shortness of breath
+ZC9KU2,7N4WR0,100493,B34.9,"Viral infection, unspecified"
+U6KIVE,7N4WR0,100493,S62.5,Fracture of metacarpal bone
+NFYXVM,2660OV,100493,J18.9,"Pneumonia, unspecified"
+B8PSUC,2XB4VZ,100493,H52.4,Presbyopia
+23OQH8,KS4OBE,100493,T81.4,Infection post-procedure
+L9LL6M,KIMO6X,100494,L60.0,Ingrown nail
+YJTPOG,KIMO6X,100494,G47.0,"Insomnia, unspecified"
+S4R3JF,IXAG06,100495,R07.9,Chest pain
+NLY0CD,RSH255,100495,E66.9,"Obesity, unspecified"
+JALB7P,L5SWHL,100495,F32.9,"Major depressive disorder, single episode"
+MBWBOJ,8D6VUE,100495,R11.0,Nausea
+7U4JB8,8D6VUE,100495,K21.9,GERD without esophagitis
+3UJW5S,PMKJLO,100495,J18.9,"Pneumonia, unspecified"
+Q5OOYY,PE4MJK,100496,G47.0,"Insomnia, unspecified"
+NWS5N0,L0BL61,100497,I25.10,Atherosclerotic heart disease
+QXF7LX,2K8LYY,100497,R06.02,Shortness of breath
+48ZEJM,2K8LYY,100497,F32.9,"Major depressive disorder, single episode"
+6IF6W2,CAVXMB,100497,R10.9,Abdominal pain
+DQ2P6H,CAVXMB,100497,S62.5,Fracture of metacarpal bone
+10JJHM,UCNAC7,100497,S93.4,Ankle sprain
+TW7HEO,ECCAT4,100498,Z23,Encounter for immunization
+ILES9W,NHSIK6,100498,Z12.11,Colon cancer screening
+6C1SG8,NHSIK6,100498,F41.1,Generalized anxiety disorder
+235KB9,OSGTUN,100498,M16.9,Osteoarthritis of hip
+96XP28,L57YP6,100498,J18.9,"Pneumonia, unspecified"
+23HKTA,Q8M9ZA,100499,R07.9,Chest pain
+WE33YK,OBRYV9,100499,K59.00,"Constipation, unspecified"
+BMFB0L,QJGE4A,100499,Z79.899,Long term drug therapy
+JKB66H,WMFJT0,100499,M17.9,Osteoarthritis of knee
+ZAO8FA,VHM6L9,100499,N39.0,Urinary tract infection
