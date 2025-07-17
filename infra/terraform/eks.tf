@@ -11,11 +11,6 @@ terraform {
   }
 }
 
-# ---------- Provider ----------
-provider "aws" {
-  region = "us-east-1"
-}
-
 # ---------- VPC ----------
 module "vpc" {
   source  = "terraform-aws-modules/vpc/aws"
